@@ -7,6 +7,9 @@ OPT = -Og
 # Sources
 CPP_SOURCES = overdrive.cpp
 
+# Include Paths
+INC_DIRS = -I../Inc
+
 # Library Locations
 LIBDAISY_DIR = ../../libDaisy
 DAISYSP_DIR = ../../DaisySP
