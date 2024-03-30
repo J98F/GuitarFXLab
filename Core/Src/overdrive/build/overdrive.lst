@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 1
 
 
    1              		.cpu cortex-m7
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   31              		@ args = 0, pretend = 0, frame = 0
   32              		@ frame_needed = 0, uses_anonymous_args = 0
   33              		@ link register save eliminated.
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 2
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 2
 
 
   34              		.loc 1 25 13 is_stmt 0 view .LVU1
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   38:../../libDaisy/src/daisy_petal.h ****         KNOB_LAST, /**< & */
   39:../../libDaisy/src/daisy_petal.h ****     };
   40:../../libDaisy/src/daisy_petal.h **** 
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 3
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 3
 
 
   41:../../libDaisy/src/daisy_petal.h ****     /** Leds in ringled */
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   79              		.loc 1 25 13 discriminator 5 view .LVU9
   80              	.LBE189:
   81              	.LBE188:
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 4
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 4
 
 
   82              		.loc 2 68 19 discriminator 7 view .LVU10
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  118              		.loc 2 68 19 discriminator 14 view .LVU21
  119 0020 10F5A472 		adds	r2, r0, #328
  120 0024 03D0     		beq	.L7
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 5
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 5
 
 
  121              	.L8:
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  133              		.loc 4 42 16 is_stmt 0 discriminator 19 view .LVU25
  134 002c FBE7     		b	.L8
  135              	.LVL6:
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 6
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 6
 
 
  136              	.L7:
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  167              	.LBE199:
  168              	.LBE198:
  169              	.LBB200:
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 7
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 7
 
 
  170              	.LBI200:
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   22:../../libDaisy/src/daisy_seed.h ****     ~DaisySeed() {}
  182              		.loc 7 22 5 is_stmt 1 discriminator 28 view .LVU39
  183              	.LBB203:
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 8
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 8
 
 
  184              	.LBI203:
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   53:../../libDaisy/src/sys/system.h ****         }
   54:../../libDaisy/src/sys/system.h **** 
   55:../../libDaisy/src/sys/system.h ****         SysClkFreq cpu_freq;
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 9
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 9
 
 
   56:../../libDaisy/src/sys/system.h ****         bool       use_dcache;
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
    7:../../libDaisy/src/hid/usb.h **** namespace daisy
    8:../../libDaisy/src/hid/usb.h **** /** @addtogroup human_interface
    9:../../libDaisy/src/hid/usb.h ****     @{
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 10
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 10
 
 
   10:../../libDaisy/src/hid/usb.h **** */
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   16:../../libDaisy/src/per/adc.h **** 
   17:../../libDaisy/src/per/adc.h **** /* While there may not be many configuration options here,
   18:../../libDaisy/src/per/adc.h **** using a struct like this allows us to add more configuration
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 11
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 11
 
 
   19:../../libDaisy/src/per/adc.h **** later without breaking existing functionality.
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   73:../../libDaisy/src/per/adc.h ****     */
   74:../../libDaisy/src/per/adc.h ****     void InitMux(dsy_gpio_pin    adc_pin,
   75:../../libDaisy/src/per/adc.h ****                  size_t          mux_channels,
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 12
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 12
 
 
   76:../../libDaisy/src/per/adc.h ****                  dsy_gpio_pin    mux_0,
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   14:../../libDaisy/src/hid/audio.h ****  *           If you're setting up your own custom hardware, or need to make changes
   15:../../libDaisy/src/hid/audio.h ****  *           you will have to take the following steps:
   16:../../libDaisy/src/hid/audio.h ****  *             1. Create and Initialize an SaiHandle or two depending on your requirements
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 13
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 13
 
 
   17:../../libDaisy/src/hid/audio.h ****  *             2. Initialize the Audio Handle with the desired settings and the Initialized SaiHand
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   71:../../libDaisy/src/hid/audio.h ****      * Non-Interleaving audio callbacks in daisy will be of this type
   72:../../libDaisy/src/hid/audio.h ****      */
   73:../../libDaisy/src/hid/audio.h ****     typedef void (*AudioCallback)(InputBuffer  in,
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 14
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 14
 
 
   74:../../libDaisy/src/hid/audio.h ****                                   OutputBuffer out,
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   10:../../DaisySP/Source/Effects/chorus.h **** #ifndef DSY_CHORUS_H
   11:../../DaisySP/Source/Effects/chorus.h **** #define DSY_CHORUS_H
   12:../../DaisySP/Source/Effects/chorus.h **** #ifdef __cplusplus
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 15
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 15
 
 
   13:../../DaisySP/Source/Effects/chorus.h **** 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   67:../../DaisySP/Source/Effects/chorus.h ****     float                    sample_rate_;
   68:../../DaisySP/Source/Effects/chorus.h ****     static constexpr int32_t kDelayLength
   69:../../DaisySP/Source/Effects/chorus.h ****         = 2400; // 50 ms at 48kHz = .05 * 48000
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 16
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 16
 
 
   70:../../DaisySP/Source/Effects/chorus.h **** 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
    1:../../DaisySP/Source/Utility/delayline.h **** /*
    2:../../DaisySP/Source/Utility/delayline.h **** Copyright (c) 2020 Electrosmith, Corp
    3:../../DaisySP/Source/Utility/delayline.h **** 
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 17
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 17
 
 
    4:../../DaisySP/Source/Utility/delayline.h **** Use of this source code is governed by an MIT-style
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  279              		.thumb
  280              		.thumb_func
  281              		.fpu fpv5-d16
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 18
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 18
 
 
  283              	_Z13pedalControlsv:
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   52:overdrive.cpp ****     float HP_in_prev = 0;
   53:overdrive.cpp ****     float HP_out_prev = 0;
   54:overdrive.cpp ****     float out_buffer;
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 19
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 19
 
 
   55:overdrive.cpp ****     float LP_out_prev;
@@ -1086,49 +1086,70 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   57:overdrive.cpp ****     uint8_t filterType;
   58:overdrive.cpp **** } RCfilter;
   59:overdrive.cpp **** 
-  60:overdrive.cpp **** 
-  61:overdrive.cpp **** typedef struct FIRfilter {
-  62:overdrive.cpp ****     float buf[FILTER_TAP_NUM];
-  63:overdrive.cpp ****     uint8_t bufIndex; 
-  64:overdrive.cpp ****     float fir_out;
-  65:overdrive.cpp **** } FIRfilter;
-  66:overdrive.cpp **** 
-  67:overdrive.cpp **** float ANTI_ALIASING_LP_FILTER[FILTER_TAP_NUM] = {
-  68:overdrive.cpp ****     0.0022085653812701925, 0.00639294176764662, 0.009070412188086173, 0.007062307516343323, -0.0004
-  69:overdrive.cpp ****     0.005695819855919352, -0.007193020983623251, -0.013995763915948804, -0.004218409015053069, 0.01
-  70:overdrive.cpp ****     0.00997737554868378, 0.04130800675068791, 0.02705716772487698, -0.0327904564654493, -0.07664310
-  71:overdrive.cpp ****     0.28916704676097094, 0.11926523549089836, -0.029674265442697394, -0.07664310969115254, -0.03279
-  72:overdrive.cpp ****     -0.024322544905887786, -0.00013554015137675498, 0.018605413605505144, 0.013899534397328285, -0.
-  73:overdrive.cpp ****     0.009911435908153236, 0.0030006682504004215, -0.005876972991221182, -0.006948527026922786, -0.0
-  74:overdrive.cpp **** };
-  75:overdrive.cpp **** 
-  76:overdrive.cpp **** 
-  77:overdrive.cpp **** pedal_attributes pedalAttribute;
-  78:overdrive.cpp **** DaisyPetal hw;
-  79:overdrive.cpp **** Chorus     ch;
-  80:overdrive.cpp **** Led led1, led2;
-  81:overdrive.cpp **** RCfilter filter;
-  82:overdrive.cpp **** FIRfilter fir;
-  83:overdrive.cpp **** signal_buffer buffer;
+  60:overdrive.cpp **** /* 
+  61:overdrive.cpp ****  ---- FILTER SPECS ---- 
+  62:overdrive.cpp **** Anti aliasing FIR filter
+  63:overdrive.cpp **** 
+  64:overdrive.cpp **** Sampling frequency: 48000 Hz
+  65:overdrive.cpp **** 
+  66:overdrive.cpp ****  -- PASS BAND --
+  67:overdrive.cpp ****     0 Hz - 10000 Hz
+  68:overdrive.cpp ****     gain = 1
+  69:overdrive.cpp ****     desired ripple = 1 dB
+  70:overdrive.cpp ****     actual ripple = 0.6943232005924238 dB
+  71:overdrive.cpp **** 
+  72:overdrive.cpp ****  -- STOP BAND --
+  73:overdrive.cpp ****     12000 Hz - 24000 Hz
+  74:overdrive.cpp ****     gain = 0
+  75:overdrive.cpp ****     desired attenuation = -60 dB
+  76:overdrive.cpp ****     actual attenuation = -60.692689098108126 dB
+  77:overdrive.cpp **** */
+  78:overdrive.cpp **** 
+  79:overdrive.cpp **** typedef struct FIRfilter {
+  80:overdrive.cpp ****     float buf[FILTER_TAP_NUM];
+  81:overdrive.cpp ****     uint8_t bufIndex; 
+  82:overdrive.cpp ****     float fir_out;
+  83:overdrive.cpp **** } FIRfilter;
   84:overdrive.cpp **** 
-  85:overdrive.cpp **** void ProcessADC();
-  86:overdrive.cpp **** 
-  87:overdrive.cpp **** /* Clipping functions */
-  88:overdrive.cpp **** float softClip1(float in);
-  89:overdrive.cpp **** float hardClip(float in);
-  90:overdrive.cpp **** 
-  91:overdrive.cpp **** /* Filter functions */
-  92:overdrive.cpp **** void RCfilter_init(RCfilter *filt, float fc_LP, float fc_HP);
-  93:overdrive.cpp **** void RCfilter_setCutOff(RCfilter *filt, float fc_LP, float fc_HP);
-  94:overdrive.cpp **** float LP_RCfilter_Update(RCfilter *filt, float input);
-  95:overdrive.cpp **** float HP_RCfilter_Update(RCfilter *filt, float input); 
-  96:overdrive.cpp **** void AA_FIR_init(FIRfilter *fir);
-  97:overdrive.cpp **** float AA_FIR_update(FIRfilter *fir, float in, float preGain);
-  98:overdrive.cpp **** 
-  99:overdrive.cpp **** 
- 100:overdrive.cpp **** void pedalControls()
- 101:overdrive.cpp **** {
- 286              		.loc 14 101 1 is_stmt 1 view -0
+  85:overdrive.cpp **** float ANTI_ALIASING_LP_FILTER[FILTER_TAP_NUM] = {
+  86:overdrive.cpp ****     0.0022085653812701925, 0.00639294176764662, 0.009070412188086173, 0.007062307516343323, -0.0004
+  87:overdrive.cpp ****     0.005695819855919352, -0.007193020983623251, -0.013995763915948804, -0.004218409015053069, 0.01
+  88:overdrive.cpp ****     0.00997737554868378, 0.04130800675068791, 0.02705716772487698, -0.0327904564654493, -0.07664310
+  89:overdrive.cpp ****     0.28916704676097094, 0.11926523549089836, -0.029674265442697394, -0.07664310969115254, -0.03279
+  90:overdrive.cpp ****     -0.024322544905887786, -0.00013554015137675498, 0.018605413605505144, 0.013899534397328285, -0.
+  91:overdrive.cpp ****     0.009911435908153236, 0.0030006682504004215, -0.005876972991221182, -0.006948527026922786, -0.0
+  92:overdrive.cpp **** };
+  93:overdrive.cpp **** 
+  94:overdrive.cpp **** 
+  95:overdrive.cpp **** pedal_attributes pedalAttribute;
+  96:overdrive.cpp **** DaisyPetal hw;
+  97:overdrive.cpp **** Chorus     ch;
+  98:overdrive.cpp **** Led led1, led2;
+  99:overdrive.cpp **** RCfilter filter;
+ 100:overdrive.cpp **** FIRfilter fir;
+ 101:overdrive.cpp **** signal_buffer buffer;
+ 102:overdrive.cpp **** 
+ 103:overdrive.cpp **** void ProcessADC();
+ 104:overdrive.cpp **** 
+ 105:overdrive.cpp **** /* Clipping functions */
+ 106:overdrive.cpp **** float softClip1(float in);
+ 107:overdrive.cpp **** float hardClip(float in);
+ 108:overdrive.cpp **** 
+ 109:overdrive.cpp **** /* Filter functions */
+ 110:overdrive.cpp **** void RCfilter_init(RCfilter *filt, float fc_LP, float fc_HP);
+ 111:overdrive.cpp **** void RCfilter_setCutOff(RCfilter *filt, float fc_LP, float fc_HP);
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 20
+
+
+ 112:overdrive.cpp **** float LP_RCfilter_Update(RCfilter *filt, float input);
+ 113:overdrive.cpp **** float HP_RCfilter_Update(RCfilter *filt, float input); 
+ 114:overdrive.cpp **** void AA_FIR_init(FIRfilter *fir);
+ 115:overdrive.cpp **** float AA_FIR_update(FIRfilter *fir, float in, float preGain);
+ 116:overdrive.cpp **** 
+ 117:overdrive.cpp **** 
+ 118:overdrive.cpp **** void pedalControls()
+ 119:overdrive.cpp **** {
+ 286              		.loc 14 119 1 is_stmt 1 view -0
  287              		.cfi_startproc
  288              		@ args = 0, pretend = 0, frame = 0
  289              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -1138,11 +1159,8 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  293              		.cfi_offset 4, -12
  294              		.cfi_offset 5, -8
  295              		.cfi_offset 14, -4
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 20
-
-
- 102:overdrive.cpp ****     hw.ProcessAllControls();
- 296              		.loc 14 102 5 view .LVU61
+ 120:overdrive.cpp ****     hw.ProcessAllControls();
+ 296              		.loc 14 120 5 view .LVU61
  297              	.LVL12:
  298              	.LBB211:
  299              	.LBI211:
@@ -1180,6 +1198,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  100:../../libDaisy/src/daisy_petal.h ****     void ChangeAudioCallback(AudioHandle::AudioCallback cb);
  101:../../libDaisy/src/daisy_petal.h **** 
  102:../../libDaisy/src/daisy_petal.h ****     /** Stops the audio if it is running. */
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 21
+
+
  103:../../libDaisy/src/daisy_petal.h ****     void StopAudio();
  104:../../libDaisy/src/daisy_petal.h **** 
  105:../../libDaisy/src/daisy_petal.h ****     /** Updates the Audio Sample Rate, and reinitializes.
@@ -1198,9 +1219,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  118:../../libDaisy/src/daisy_petal.h **** 
  119:../../libDaisy/src/daisy_petal.h ****     /** Returns the number of samples per channel in a block of audio. */
  120:../../libDaisy/src/daisy_petal.h ****     size_t AudioBlockSize();
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 21
-
-
  121:../../libDaisy/src/daisy_petal.h **** 
  122:../../libDaisy/src/daisy_petal.h ****     /** Returns the rate in Hz that the Audio callback is called */
  123:../../libDaisy/src/daisy_petal.h ****     float AudioCallbackRate();
@@ -1235,11 +1253,14 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  313              		.loc 2 138 31 view .LVU67
  314              	.LBE212:
  315              	.LBE211:
- 103:overdrive.cpp **** 
- 104:overdrive.cpp ****     /* Footswitch */
- 105:overdrive.cpp ****     pedalAttribute.FS1_bypass ^= hw.switches[Terrarium::FOOTSWITCH_1].RisingEdge();    
- 316              		.loc 14 105 5 is_stmt 1 view .LVU68
+ 121:overdrive.cpp **** 
+ 122:overdrive.cpp ****     /* Footswitch */
+ 123:overdrive.cpp ****     pedalAttribute.FS1_bypass ^= hw.switches[Terrarium::FOOTSWITCH_1].RisingEdge();    
+ 316              		.loc 14 123 5 is_stmt 1 view .LVU68
  317              	.LBB213:
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 22
+
+
  318              	.LBI213:
   43:../../libDaisy/src/hid/switch.h **** 
   44:../../libDaisy/src/hid/switch.h ****     /** 
@@ -1258,9 +1279,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   57:../../libDaisy/src/hid/switch.h ****        \param pin port/pin object to tell the switch which hardware pin to use.
   58:../../libDaisy/src/hid/switch.h ****        \param update_rate Left for backwards compatibility until next breaking change.
   59:../../libDaisy/src/hid/switch.h ****     */
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 22
-
-
   60:../../libDaisy/src/hid/switch.h ****     void Init(dsy_gpio_pin pin, float update_rate = 0.f);
   61:../../libDaisy/src/hid/switch.h **** 
   62:../../libDaisy/src/hid/switch.h ****     /** 
@@ -1291,15 +1309,18 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  335              		.loc 4 70 54 view .LVU75
  336              	.LBE214:
  337              	.LBE213:
- 338              		.loc 14 105 31 view .LVU76
+ 338              		.loc 14 123 31 view .LVU76
  339 0022 2449     		ldr	r1, .L21+4
  340 0024 0A78     		ldrb	r2, [r1]	@ zero_extendqisi2
  341 0026 D31A     		subs	r3, r2, r3
  342 0028 18BF     		it	ne
  343 002a 0123     		movne	r3, #1
  344 002c 0B70     		strb	r3, [r1]
- 106:overdrive.cpp ****     pedalAttribute.FS2_bypass ^= hw.switches[Terrarium::FOOTSWITCH_2].RisingEdge();  
- 345              		.loc 14 106 5 is_stmt 1 view .LVU77
+ 124:overdrive.cpp ****     pedalAttribute.FS2_bypass ^= hw.switches[Terrarium::FOOTSWITCH_2].RisingEdge();  
+ 345              		.loc 14 124 5 is_stmt 1 view .LVU77
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 23
+
+
  346              	.LVL16:
  347              	.LBB215:
  348              	.LBI215:
@@ -1318,26 +1339,23 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  361 003c 7F2B     		cmp	r3, #127
  362 003e 14BF     		ite	ne
  363 0040 0023     		movne	r3, #0
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 23
-
-
  364 0042 0123     		moveq	r3, #1
  365              	.L18:
  366              	.LVL17:
  367              		.loc 4 70 54 view .LVU84
  368              	.LBE216:
  369              	.LBE215:
- 370              		.loc 14 106 31 view .LVU85
+ 370              		.loc 14 124 31 view .LVU85
  371 0044 1B49     		ldr	r1, .L21+4
  372 0046 4A78     		ldrb	r2, [r1, #1]	@ zero_extendqisi2
  373 0048 D31A     		subs	r3, r2, r3
  374 004a 18BF     		it	ne
  375 004c 0123     		movne	r3, #1
  376 004e 4B70     		strb	r3, [r1, #1]
- 107:overdrive.cpp **** 
- 108:overdrive.cpp ****     /* Switches */
- 109:overdrive.cpp ****     pedalAttribute.switch_1 ^= hw.switches[Terrarium::SWITCH_1].RisingEdge();
- 377              		.loc 14 109 5 is_stmt 1 view .LVU86
+ 125:overdrive.cpp **** 
+ 126:overdrive.cpp ****     /* Switches */
+ 127:overdrive.cpp ****     pedalAttribute.switch_1 ^= hw.switches[Terrarium::SWITCH_1].RisingEdge();
+ 377              		.loc 14 127 5 is_stmt 1 view .LVU86
  378              	.LVL18:
  379              	.LBB217:
  380              	.LBI217:
@@ -1360,58 +1378,58 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  397              	.L19:
  398              	.LVL19:
  399              		.loc 4 70 54 view .LVU93
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 24
+
+
  400              	.LBE218:
  401              	.LBE217:
- 402              		.loc 14 109 29 view .LVU94
+ 402              		.loc 14 127 29 view .LVU94
  403 0066 134C     		ldr	r4, .L21+4
  404 0068 A278     		ldrb	r2, [r4, #2]	@ zero_extendqisi2
  405 006a D31A     		subs	r3, r2, r3
  406 006c 18BF     		it	ne
  407 006e 0123     		movne	r3, #1
  408 0070 A370     		strb	r3, [r4, #2]
- 110:overdrive.cpp **** 
- 111:overdrive.cpp ****     /* Pots */
- 112:overdrive.cpp ****     pedalAttribute.POT1 = hw.knob[Terrarium::KNOB_1].Process(); // Volume control
- 409              		.loc 14 112 5 is_stmt 1 view .LVU95
- 410              		.loc 14 112 61 is_stmt 0 view .LVU96
+ 128:overdrive.cpp **** 
+ 129:overdrive.cpp ****     /* Pots */
+ 130:overdrive.cpp ****     pedalAttribute.POT1 = hw.knob[Terrarium::KNOB_1].Process(); // Volume control
+ 409              		.loc 14 130 5 is_stmt 1 view .LVU95
+ 410              		.loc 14 130 61 is_stmt 0 view .LVU96
  411 0072 0F4D     		ldr	r5, .L21
  412 0074 05F16800 		add	r0, r5, #104
  413 0078 FFF7FEFF 		bl	_ZN5daisy13AnalogControl7ProcessEv
  414              	.LVL20:
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 24
-
-
- 415              		.loc 14 112 25 view .LVU97
+ 415              		.loc 14 130 25 view .LVU97
  416 007c 84ED020A 		vstr.32	s0, [r4, #8]
- 113:overdrive.cpp ****     pedalAttribute.POT2 = hw.knob[Terrarium::KNOB_2].Process(); // LP filter cut off frequency
- 417              		.loc 14 113 5 is_stmt 1 view .LVU98
- 418              		.loc 14 113 61 is_stmt 0 view .LVU99
+ 131:overdrive.cpp ****     pedalAttribute.POT2 = hw.knob[Terrarium::KNOB_2].Process(); // LP filter cut off frequency
+ 417              		.loc 14 131 5 is_stmt 1 view .LVU98
+ 418              		.loc 14 131 61 is_stmt 0 view .LVU99
  419 0080 05F1A800 		add	r0, r5, #168
  420 0084 FFF7FEFF 		bl	_ZN5daisy13AnalogControl7ProcessEv
  421              	.LVL21:
- 422              		.loc 14 113 25 view .LVU100
+ 422              		.loc 14 131 25 view .LVU100
  423 0088 84ED030A 		vstr.32	s0, [r4, #12]
- 114:overdrive.cpp ****     pedalAttribute.POT3 = hw.knob[Terrarium::KNOB_3].Process(); // HP filter cut off frequency
- 424              		.loc 14 114 5 is_stmt 1 view .LVU101
- 425              		.loc 14 114 61 is_stmt 0 view .LVU102
+ 132:overdrive.cpp ****     pedalAttribute.POT3 = hw.knob[Terrarium::KNOB_3].Process(); // HP filter cut off frequency
+ 424              		.loc 14 132 5 is_stmt 1 view .LVU101
+ 425              		.loc 14 132 61 is_stmt 0 view .LVU102
  426 008c 05F1E800 		add	r0, r5, #232
  427 0090 FFF7FEFF 		bl	_ZN5daisy13AnalogControl7ProcessEv
  428              	.LVL22:
- 429              		.loc 14 114 25 view .LVU103
+ 429              		.loc 14 132 25 view .LVU103
  430 0094 84ED040A 		vstr.32	s0, [r4, #16]
- 115:overdrive.cpp ****     pedalAttribute.POT4 = hw.knob[Terrarium::KNOB_4].Process() * 35; // Overdrive pregain
- 431              		.loc 14 115 5 is_stmt 1 view .LVU104
- 432              		.loc 14 115 61 is_stmt 0 view .LVU105
+ 133:overdrive.cpp ****     pedalAttribute.POT4 = hw.knob[Terrarium::KNOB_4].Process() * 35; // Overdrive pregain
+ 431              		.loc 14 133 5 is_stmt 1 view .LVU104
+ 432              		.loc 14 133 61 is_stmt 0 view .LVU105
  433 0098 05F18800 		add	r0, r5, #136
  434 009c FFF7FEFF 		bl	_ZN5daisy13AnalogControl7ProcessEv
  435              	.LVL23:
- 436              		.loc 14 115 64 view .LVU106
+ 436              		.loc 14 133 64 view .LVU106
  437 00a0 DFED057A 		vldr.32	s15, .L21+8
  438 00a4 20EE270A 		vmul.f32	s0, s0, s15
- 439              		.loc 14 115 25 view .LVU107
+ 439              		.loc 14 133 25 view .LVU107
  440 00a8 84ED050A 		vstr.32	s0, [r4, #20]
- 116:overdrive.cpp **** }
- 441              		.loc 14 116 1 view .LVU108
+ 134:overdrive.cpp **** }
+ 441              		.loc 14 134 1 view .LVU108
  442 00ac 38BD     		pop	{r3, r4, r5, pc}
  443              	.L22:
  444 00ae 00BF     		.align	2
@@ -1420,6 +1438,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  447 00b4 00000000 		.word	.LANCHOR1
  448 00b8 00000C42 		.word	1108082688
  449              		.cfi_endproc
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 25
+
+
  450              	.LFE4698:
  452              		.section	.text._Z10ProcessADCv,"ax",%progbits
  453              		.align	1
@@ -1430,89 +1451,79 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  458              		.fpu fpv5-d16
  460              	_Z10ProcessADCv:
  461              	.LFB4700:
- 117:overdrive.cpp **** 
- 118:overdrive.cpp **** void AudioCallback(AudioHandle::InputBuffer  in,
- 119:overdrive.cpp ****                    AudioHandle::OutputBuffer out,
- 120:overdrive.cpp ****                    size_t                    size)
- 121:overdrive.cpp **** {
- 122:overdrive.cpp ****     pedalControls();
- 123:overdrive.cpp ****     ProcessADC();
- 124:overdrive.cpp **** 
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 25
-
-
- 125:overdrive.cpp ****     /* LOWPASS FILTER CUTOFF */
- 126:overdrive.cpp ****     if (pedalAttribute.POT2 != pedalAttribute.previous_POT2)
- 127:overdrive.cpp ****     {
- 128:overdrive.cpp ****         filter.filterType = LOWPASS;
- 129:overdrive.cpp ****         RCfilter_setCutOff(&filter, 5000.0f * pedalAttribute.POT2, 0.0f);
- 130:overdrive.cpp ****         pedalAttribute.previous_POT2 = pedalAttribute.POT2;
- 131:overdrive.cpp ****     }
- 132:overdrive.cpp ****     // TODO: MOVE TO ProcessADC() function
- 133:overdrive.cpp ****     /* HIGHPASS FILTER CUTOFF */
- 134:overdrive.cpp ****     if (pedalAttribute.POT3 != pedalAttribute.previous_POT3)
- 135:overdrive.cpp ****     {
- 136:overdrive.cpp ****         filter.filterType = HIGHPASS;
- 137:overdrive.cpp ****         RCfilter_setCutOff(&filter, 0.0f, 2000.0f * pedalAttribute.POT3);
- 138:overdrive.cpp ****         pedalAttribute.previous_POT3 = pedalAttribute.POT3;
- 139:overdrive.cpp ****     }
- 140:overdrive.cpp **** 
- 141:overdrive.cpp ****     for(size_t i = 0; i < size; i++)
- 142:overdrive.cpp ****     {   
- 143:overdrive.cpp ****         buffer.in = in[0][i] * (pedalAttribute.POT1*2);
- 144:overdrive.cpp **** 
- 145:overdrive.cpp ****         if (hw.switches[Terrarium::FOOTSWITCH_1].RisingEdge() || hw.switches[Terrarium::FOOTSWITCH_
- 146:overdrive.cpp ****         {    
- 147:overdrive.cpp ****             led1.Set(!pedalAttribute.FS1_bypass ? 1.0f : 0.0f);
- 148:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
- 149:overdrive.cpp ****             led1.Update(); 
- 150:overdrive.cpp ****             led2.Update();
- 151:overdrive.cpp ****         }
- 152:overdrive.cpp **** 
- 153:overdrive.cpp ****          if (!pedalAttribute.FS1_bypass) // filtered distortion
- 154:overdrive.cpp ****         {
- 155:overdrive.cpp ****             buffer.lowpass_filtered = LP_RCfilter_Update(&filter, buffer.in);
- 156:overdrive.cpp ****             buffer.clipped = softClip1(buffer.lowpass_filtered * pedalAttribute.POT1 * 100);
- 157:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
+ 135:overdrive.cpp **** 
+ 136:overdrive.cpp **** void AudioCallback(AudioHandle::InputBuffer  in,
+ 137:overdrive.cpp ****                    AudioHandle::OutputBuffer out,
+ 138:overdrive.cpp ****                    size_t                    size)
+ 139:overdrive.cpp **** {
+ 140:overdrive.cpp ****     pedalControls();
+ 141:overdrive.cpp ****     ProcessADC();
+ 142:overdrive.cpp **** 
+ 143:overdrive.cpp ****     /* LOWPASS FILTER CUTOFF */
+ 144:overdrive.cpp ****     if (pedalAttribute.POT2 != pedalAttribute.previous_POT2)
+ 145:overdrive.cpp ****     {
+ 146:overdrive.cpp ****         filter.filterType = LOWPASS;
+ 147:overdrive.cpp ****         RCfilter_setCutOff(&filter, 5000.0f * pedalAttribute.POT2, 0.0f);
+ 148:overdrive.cpp ****         pedalAttribute.previous_POT2 = pedalAttribute.POT2;
+ 149:overdrive.cpp ****     }
+ 150:overdrive.cpp ****     // TODO: MOVE TO ProcessADC() function
+ 151:overdrive.cpp ****     /* HIGHPASS FILTER CUTOFF */
+ 152:overdrive.cpp ****     if (pedalAttribute.POT3 != pedalAttribute.previous_POT3)
+ 153:overdrive.cpp ****     {
+ 154:overdrive.cpp ****         filter.filterType = HIGHPASS;
+ 155:overdrive.cpp ****         RCfilter_setCutOff(&filter, 0.0f, 2000.0f * pedalAttribute.POT3);
+ 156:overdrive.cpp ****         pedalAttribute.previous_POT3 = pedalAttribute.POT3;
+ 157:overdrive.cpp ****     }
  158:overdrive.cpp **** 
- 159:overdrive.cpp ****             out[0][i] = buffer.highpass_filtered;
- 160:overdrive.cpp ****         }
- 161:overdrive.cpp ****         else if (!pedalAttribute.FS2_bypass)
- 162:overdrive.cpp ****         {
- 163:overdrive.cpp ****             //filter.filterType = LOWPASS;
- 164:overdrive.cpp ****             //buffer.lowpass_filtered = LP_RCfilter_Update(&filter, buffer.in);
- 165:overdrive.cpp **** 
- 166:overdrive.cpp ****             //buffer.clipped = hardClip(buffer.lowpass_filtered);
- 167:overdrive.cpp ****             //out[0][i] = buffer.clipped * (pedalAttribute.POT1*1000);
- 168:overdrive.cpp **** 
- 169:overdrive.cpp ****             //filter.filterType = HIGHPASS; // OBS. der er et problem når den toggler mellem disse
- 170:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.in);
- 171:overdrive.cpp **** 
- 172:overdrive.cpp ****             buffer.clipped = AA_FIR_update(&fir, buffer.highpass_filtered, pedalAttribute.POT4);
- 173:overdrive.cpp **** 
- 174:overdrive.cpp ****             //buffer.lowpass_filtered = LP_RCfilter_Update(&filter, buffer.clipped);
- 175:overdrive.cpp **** 
- 176:overdrive.cpp ****             out[0][i] = buffer.clipped;
- 177:overdrive.cpp ****         }
- 178:overdrive.cpp ****         else // Bypass
- 179:overdrive.cpp ****         {
- 180:overdrive.cpp ****             out[0][i] = buffer.in;
- 181:overdrive.cpp ****         }
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 26
+ 159:overdrive.cpp ****     for(size_t i = 0; i < size; i++)
+ 160:overdrive.cpp ****     {   
+ 161:overdrive.cpp ****         buffer.in = in[0][i] * (pedalAttribute.POT1*2);
+ 162:overdrive.cpp **** 
+ 163:overdrive.cpp ****         if (hw.switches[Terrarium::FOOTSWITCH_1].RisingEdge() || hw.switches[Terrarium::FOOTSWITCH_
+ 164:overdrive.cpp ****         {    
+ 165:overdrive.cpp ****             led1.Set(!pedalAttribute.FS1_bypass ? 1.0f : 0.0f);
+ 166:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
+ 167:overdrive.cpp ****             led1.Update(); 
+ 168:overdrive.cpp ****             led2.Update();
+ 169:overdrive.cpp ****         }
+ 170:overdrive.cpp **** 
+ 171:overdrive.cpp ****          if (!pedalAttribute.FS1_bypass) // filtered distortion
+ 172:overdrive.cpp ****         {
+ 173:overdrive.cpp ****             buffer.lowpass_filtered = LP_RCfilter_Update(&filter, buffer.in);
+ 174:overdrive.cpp ****             buffer.clipped = softClip1(buffer.lowpass_filtered * pedalAttribute.POT1 * 100);
+ 175:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
+ 176:overdrive.cpp **** 
+ 177:overdrive.cpp ****             out[0][i] = buffer.highpass_filtered;
+ 178:overdrive.cpp ****         }
+ 179:overdrive.cpp ****         else if (!pedalAttribute.FS2_bypass)
+ 180:overdrive.cpp ****         {
+ 181:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.in);
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 26
 
 
- 182:overdrive.cpp ****     }
- 183:overdrive.cpp **** }
+ 182:overdrive.cpp **** 
+ 183:overdrive.cpp ****             buffer.clipped = AA_FIR_update(&fir, buffer.highpass_filtered, pedalAttribute.POT4);
  184:overdrive.cpp **** 
- 185:overdrive.cpp **** void ProcessADC() 
- 186:overdrive.cpp **** {
- 462              		.loc 14 186 1 is_stmt 1 view -0
+ 185:overdrive.cpp ****             //buffer.lowpass_filtered = LP_RCfilter_Update(&filter, buffer.clipped);
+ 186:overdrive.cpp **** 
+ 187:overdrive.cpp ****             out[0][i] = buffer.clipped;
+ 188:overdrive.cpp ****         }
+ 189:overdrive.cpp ****         else // Bypass
+ 190:overdrive.cpp ****         {
+ 191:overdrive.cpp ****             out[0][i] = buffer.in;
+ 192:overdrive.cpp ****         }
+ 193:overdrive.cpp ****     }
+ 194:overdrive.cpp **** }
+ 195:overdrive.cpp **** 
+ 196:overdrive.cpp **** void ProcessADC() 
+ 197:overdrive.cpp **** {
+ 462              		.loc 14 197 1 is_stmt 1 view -0
  463              		.cfi_startproc
  464              		@ args = 0, pretend = 0, frame = 0
  465              		@ frame_needed = 0, uses_anonymous_args = 0
  466              		@ link register save eliminated.
- 187:overdrive.cpp **** }
- 467              		.loc 14 187 1 is_stmt 0 view .LVU110
+ 198:overdrive.cpp **** }
+ 467              		.loc 14 198 1 is_stmt 0 view .LVU110
  468 0000 7047     		bx	lr
  469              		.cfi_endproc
  470              	.LFE4700:
@@ -1526,226 +1537,226 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  480              	_Z11AA_FIR_initP9FIRfilter:
  481              	.LVL24:
  482              	.LFB4701:
- 188:overdrive.cpp **** 
- 189:overdrive.cpp **** /* ----- FIR ANTI-ALIAS FILTER ----- */
- 190:overdrive.cpp **** 
- 191:overdrive.cpp **** void AA_FIR_init(FIRfilter *fir)   
- 192:overdrive.cpp **** {
- 483              		.loc 14 192 1 is_stmt 1 view -0
+ 199:overdrive.cpp **** 
+ 200:overdrive.cpp **** /* ----- FIR ANTI-ALIAS FILTER ----- */
+ 201:overdrive.cpp **** 
+ 202:overdrive.cpp **** void AA_FIR_init(FIRfilter *fir)   
+ 203:overdrive.cpp **** {
+ 483              		.loc 14 203 1 is_stmt 1 view -0
  484              		.cfi_startproc
  485              		@ args = 0, pretend = 0, frame = 0
  486              		@ frame_needed = 0, uses_anonymous_args = 0
  487              		@ link register save eliminated.
- 193:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++) // Reset all buffer indexes
- 488              		.loc 14 193 5 view .LVU112
+ 204:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++) // Reset all buffer indexes
+ 488              		.loc 14 204 5 view .LVU112
  489              	.LBB219:
- 490              		.loc 14 193 18 is_stmt 0 view .LVU113
+ 490              		.loc 14 204 18 is_stmt 0 view .LVU113
  491 0000 0023     		movs	r3, #0
  492 0002 05E0     		b	.L26
  493              	.LVL25:
  494              	.L27:
- 194:overdrive.cpp ****     {
- 195:overdrive.cpp ****         fir->buf[n] = 0.0f;
- 495              		.loc 14 195 9 is_stmt 1 discriminator 2 view .LVU114
- 496              		.loc 14 195 21 is_stmt 0 discriminator 2 view .LVU115
+ 205:overdrive.cpp ****     {
+ 206:overdrive.cpp ****         fir->buf[n] = 0.0f;
+ 495              		.loc 14 206 9 is_stmt 1 discriminator 2 view .LVU114
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 27
+
+
+ 496              		.loc 14 206 21 is_stmt 0 discriminator 2 view .LVU115
  497 0004 00EB8302 		add	r2, r0, r3, lsl #2
  498 0008 0021     		movs	r1, #0
  499 000a 1160     		str	r1, [r2]	@ float
- 193:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++) // Reset all buffer indexes
- 500              		.loc 14 193 5 is_stmt 1 discriminator 2 view .LVU116
+ 204:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++) // Reset all buffer indexes
+ 500              		.loc 14 204 5 is_stmt 1 discriminator 2 view .LVU116
  501 000c 0133     		adds	r3, r3, #1
  502              	.LVL26:
- 193:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++) // Reset all buffer indexes
- 503              		.loc 14 193 5 is_stmt 0 discriminator 2 view .LVU117
+ 204:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++) // Reset all buffer indexes
+ 503              		.loc 14 204 5 is_stmt 0 discriminator 2 view .LVU117
  504 000e DBB2     		uxtb	r3, r3
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 27
-
-
  505              	.LVL27:
  506              	.L26:
- 193:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++) // Reset all buffer indexes
- 507              		.loc 14 193 27 is_stmt 1 discriminator 3 view .LVU118
+ 204:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++) // Reset all buffer indexes
+ 507              		.loc 14 204 27 is_stmt 1 discriminator 3 view .LVU118
  508 0010 342B     		cmp	r3, #52
  509 0012 F7D9     		bls	.L27
  510              	.LBE219:
- 196:overdrive.cpp ****     }
- 197:overdrive.cpp **** 
- 198:overdrive.cpp ****     fir->bufIndex = 0.0f;
- 511              		.loc 14 198 5 view .LVU119
- 512              		.loc 14 198 19 is_stmt 0 view .LVU120
+ 207:overdrive.cpp ****     }
+ 208:overdrive.cpp **** 
+ 209:overdrive.cpp ****     fir->bufIndex = 0.0f;
+ 511              		.loc 14 209 5 view .LVU119
+ 512              		.loc 14 209 19 is_stmt 0 view .LVU120
  513 0014 0023     		movs	r3, #0
  514              	.LVL28:
- 515              		.loc 14 198 19 view .LVU121
+ 515              		.loc 14 209 19 view .LVU121
  516 0016 80F8D430 		strb	r3, [r0, #212]
- 199:overdrive.cpp ****     fir->fir_out = 0.0f;
- 517              		.loc 14 199 5 is_stmt 1 view .LVU122
- 518              		.loc 14 199 18 is_stmt 0 view .LVU123
+ 210:overdrive.cpp ****     fir->fir_out = 0.0f;
+ 517              		.loc 14 210 5 is_stmt 1 view .LVU122
+ 518              		.loc 14 210 18 is_stmt 0 view .LVU123
  519 001a 0023     		movs	r3, #0
  520 001c C0F8D830 		str	r3, [r0, #216]	@ float
- 200:overdrive.cpp **** }
- 521              		.loc 14 200 1 view .LVU124
+ 211:overdrive.cpp **** }
+ 521              		.loc 14 211 1 view .LVU124
  522 0020 7047     		bx	lr
  523              		.cfi_endproc
  524              	.LFE4701:
- 526              		.section	.text._Z13AA_FIR_updateP9FIRfilterff,"ax",%progbits
+ 526              		.section	.text._Z16overdrive_updateP9FIRfilterff,"ax",%progbits
  527              		.align	1
- 528              		.global	_Z13AA_FIR_updateP9FIRfilterff
+ 528              		.global	_Z16overdrive_updateP9FIRfilterff
  529              		.syntax unified
  530              		.thumb
  531              		.thumb_func
  532              		.fpu fpv5-d16
- 534              	_Z13AA_FIR_updateP9FIRfilterff:
+ 534              	_Z16overdrive_updateP9FIRfilterff:
  535              	.LVL29:
  536              	.LFB4702:
- 201:overdrive.cpp **** 
- 202:overdrive.cpp **** float AA_FIR_update(FIRfilter *fir, float in, float preGain)
- 203:overdrive.cpp **** {
- 537              		.loc 14 203 1 is_stmt 1 view -0
+ 212:overdrive.cpp **** 
+ 213:overdrive.cpp **** float overdrive_update(FIRfilter *fir, float in, float preGain)
+ 214:overdrive.cpp **** {
+ 537              		.loc 14 214 1 is_stmt 1 view -0
  538              		.cfi_startproc
  539              		@ args = 0, pretend = 0, frame = 0
  540              		@ frame_needed = 0, uses_anonymous_args = 0
  541              		@ link register save eliminated.
- 204:overdrive.cpp **** 
- 205:overdrive.cpp ****     fir->buf[fir->bufIndex] = in; // Store latest sample in buffer (circular buffer)
- 542              		.loc 14 205 5 view .LVU126
- 543              		.loc 14 205 19 is_stmt 0 view .LVU127
+ 215:overdrive.cpp ****     /* Anti-aliasing lowpass filter */
+ 216:overdrive.cpp ****     fir->buf[fir->bufIndex] = in; // Store latest sample in buffer (circular buffer)
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 28
+
+
+ 542              		.loc 14 216 5 view .LVU126
+ 543              		.loc 14 216 19 is_stmt 0 view .LVU127
  544 0000 90F8D430 		ldrb	r3, [r0, #212]	@ zero_extendqisi2
- 545              		.loc 14 205 29 view .LVU128
+ 545              		.loc 14 216 29 view .LVU128
  546 0004 00EB8302 		add	r2, r0, r3, lsl #2
  547 0008 82ED000A 		vstr.32	s0, [r2]
- 206:overdrive.cpp ****     fir->bufIndex++;
- 548              		.loc 14 206 5 is_stmt 1 view .LVU129
- 549              		.loc 14 206 18 is_stmt 0 view .LVU130
+ 217:overdrive.cpp ****     fir->bufIndex++;
+ 548              		.loc 14 217 5 is_stmt 1 view .LVU129
+ 549              		.loc 14 217 18 is_stmt 0 view .LVU130
  550 000c 0133     		adds	r3, r3, #1
  551 000e DBB2     		uxtb	r3, r3
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 28
-
-
  552 0010 80F8D430 		strb	r3, [r0, #212]
- 207:overdrive.cpp **** 
- 208:overdrive.cpp ****     if (fir->bufIndex == FILTER_TAP_NUM) // Reset index at highest filter tap
- 553              		.loc 14 208 5 is_stmt 1 view .LVU131
+ 218:overdrive.cpp **** 
+ 219:overdrive.cpp ****     if (fir->bufIndex == FILTER_TAP_NUM) // Reset index at highest filter tap
+ 553              		.loc 14 219 5 is_stmt 1 view .LVU131
  554 0014 352B     		cmp	r3, #53
  555 0016 06D0     		beq	.L51
  556              	.L29:
- 209:overdrive.cpp ****     {
- 210:overdrive.cpp ****         fir->bufIndex = 0.0f;
- 211:overdrive.cpp ****     }
- 212:overdrive.cpp **** 
- 213:overdrive.cpp ****     // Compute new output sample via convolution
- 214:overdrive.cpp ****     fir->fir_out = 0.0f;
- 557              		.loc 14 214 5 view .LVU132
- 558              		.loc 14 214 18 is_stmt 0 view .LVU133
+ 220:overdrive.cpp ****     {
+ 221:overdrive.cpp ****         fir->bufIndex = 0.0f;
+ 222:overdrive.cpp ****     }
+ 223:overdrive.cpp **** 
+ 224:overdrive.cpp ****     // Compute new output sample via convolution
+ 225:overdrive.cpp ****     fir->fir_out = 0.0f;
+ 557              		.loc 14 225 5 view .LVU132
+ 558              		.loc 14 225 18 is_stmt 0 view .LVU133
  559 0018 0023     		movs	r3, #0
  560 001a C0F8D830 		str	r3, [r0, #216]	@ float
- 215:overdrive.cpp **** 
- 216:overdrive.cpp ****     uint8_t sumIndex = fir->bufIndex;
- 561              		.loc 14 216 5 is_stmt 1 view .LVU134
- 562              		.loc 14 216 13 is_stmt 0 view .LVU135
+ 226:overdrive.cpp **** 
+ 227:overdrive.cpp ****     uint8_t sumIndex = fir->bufIndex;
+ 561              		.loc 14 227 5 is_stmt 1 view .LVU134
+ 562              		.loc 14 227 13 is_stmt 0 view .LVU135
  563 001e 90F8D420 		ldrb	r2, [r0, #212]	@ zero_extendqisi2
  564              	.LVL30:
- 217:overdrive.cpp **** 
- 218:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++)
- 565              		.loc 14 218 5 is_stmt 1 view .LVU136
+ 228:overdrive.cpp **** 
+ 229:overdrive.cpp ****     for (uint8_t n = 0; n < FILTER_TAP_NUM; n++)
+ 565              		.loc 14 229 5 is_stmt 1 view .LVU136
  566              	.LBB220:
- 567              		.loc 14 218 18 is_stmt 0 view .LVU137
+ 567              		.loc 14 229 18 is_stmt 0 view .LVU137
  568 0022 0023     		movs	r3, #0
  569 0024 17E0     		b	.L32
  570              	.LVL31:
  571              	.L51:
- 572              		.loc 14 218 18 view .LVU138
+ 572              		.loc 14 229 18 view .LVU138
  573              	.LBE220:
- 210:overdrive.cpp ****     }
- 574              		.loc 14 210 9 is_stmt 1 view .LVU139
- 210:overdrive.cpp ****     }
- 575              		.loc 14 210 23 is_stmt 0 view .LVU140
+ 221:overdrive.cpp ****     }
+ 574              		.loc 14 221 9 is_stmt 1 view .LVU139
+ 221:overdrive.cpp ****     }
+ 575              		.loc 14 221 23 is_stmt 0 view .LVU140
  576 0026 0023     		movs	r3, #0
  577 0028 80F8D430 		strb	r3, [r0, #212]
  578 002c F4E7     		b	.L29
  579              	.LVL32:
  580              	.L41:
  581              	.LBB221:
- 219:overdrive.cpp ****     {
- 220:overdrive.cpp ****         if (sumIndex > 0)
- 221:overdrive.cpp ****         {
- 222:overdrive.cpp ****             sumIndex--;
- 223:overdrive.cpp ****         } 
- 224:overdrive.cpp ****         else 
- 225:overdrive.cpp ****         {
- 226:overdrive.cpp ****             sumIndex = FILTER_TAP_NUM - 1;    
- 582              		.loc 14 226 22 view .LVU141
+ 230:overdrive.cpp ****     {
+ 231:overdrive.cpp ****         if (sumIndex > 0)
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 29
+
+
+ 232:overdrive.cpp ****         {
+ 233:overdrive.cpp ****             sumIndex--;
+ 234:overdrive.cpp ****         } 
+ 235:overdrive.cpp ****         else 
+ 236:overdrive.cpp ****         {
+ 237:overdrive.cpp ****             sumIndex = FILTER_TAP_NUM - 1;    
+ 582              		.loc 14 237 22 view .LVU141
  583 002e 3422     		movs	r2, #52
  584              	.LVL33:
  585              	.L31:
- 227:overdrive.cpp ****         }
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 29
-
-
- 228:overdrive.cpp **** 
- 229:overdrive.cpp ****         fir->fir_out += ANTI_ALIASING_LP_FILTER[n] * fir->buf[sumIndex];
- 586              		.loc 14 229 9 is_stmt 1 discriminator 2 view .LVU142
- 587              		.loc 14 229 50 is_stmt 0 discriminator 2 view .LVU143
+ 238:overdrive.cpp ****         }
+ 239:overdrive.cpp **** 
+ 240:overdrive.cpp ****         fir->fir_out += ANTI_ALIASING_LP_FILTER[n] * fir->buf[sumIndex];
+ 586              		.loc 14 240 9 is_stmt 1 discriminator 2 view .LVU142
+ 587              		.loc 14 240 50 is_stmt 0 discriminator 2 view .LVU143
  588 0030 3349     		ldr	r1, .L54
  589 0032 01EB8301 		add	r1, r1, r3, lsl #2
  590 0036 D1ED007A 		vldr.32	s15, [r1]
- 591              		.loc 14 229 71 discriminator 2 view .LVU144
+ 591              		.loc 14 240 71 discriminator 2 view .LVU144
  592 003a 00EB8201 		add	r1, r0, r2, lsl #2
  593 003e 91ED007A 		vldr.32	s14, [r1]
- 594              		.loc 14 229 52 discriminator 2 view .LVU145
+ 594              		.loc 14 240 52 discriminator 2 view .LVU145
  595 0042 27EE877A 		vmul.f32	s14, s15, s14
- 596              		.loc 14 229 22 discriminator 2 view .LVU146
+ 596              		.loc 14 240 22 discriminator 2 view .LVU146
  597 0046 D0ED367A 		vldr.32	s15, [r0, #216]
  598 004a 77EE877A 		vadd.f32	s15, s15, s14
  599 004e C0ED367A 		vstr.32	s15, [r0, #216]
- 218:overdrive.cpp ****     {
- 600              		.loc 14 218 5 is_stmt 1 discriminator 2 view .LVU147
+ 229:overdrive.cpp ****     {
+ 600              		.loc 14 229 5 is_stmt 1 discriminator 2 view .LVU147
  601 0052 0133     		adds	r3, r3, #1
  602              	.LVL34:
- 218:overdrive.cpp ****     {
- 603              		.loc 14 218 5 is_stmt 0 discriminator 2 view .LVU148
+ 229:overdrive.cpp ****     {
+ 603              		.loc 14 229 5 is_stmt 0 discriminator 2 view .LVU148
  604 0054 DBB2     		uxtb	r3, r3
  605              	.LVL35:
  606              	.L32:
- 218:overdrive.cpp ****     {
- 607              		.loc 14 218 27 is_stmt 1 discriminator 1 view .LVU149
+ 229:overdrive.cpp ****     {
+ 607              		.loc 14 229 27 is_stmt 1 discriminator 1 view .LVU149
  608 0056 342B     		cmp	r3, #52
  609 0058 04D8     		bhi	.L30
- 220:overdrive.cpp ****         {
- 610              		.loc 14 220 9 view .LVU150
+ 231:overdrive.cpp ****         {
+ 610              		.loc 14 231 9 view .LVU150
  611 005a 002A     		cmp	r2, #0
  612 005c E7D0     		beq	.L41
- 222:overdrive.cpp ****         } 
- 613              		.loc 14 222 13 view .LVU151
- 222:overdrive.cpp ****         } 
- 614              		.loc 14 222 21 is_stmt 0 view .LVU152
+ 233:overdrive.cpp ****         } 
+ 613              		.loc 14 233 13 view .LVU151
+ 233:overdrive.cpp ****         } 
+ 614              		.loc 14 233 21 is_stmt 0 view .LVU152
  615 005e 013A     		subs	r2, r2, #1
  616              	.LVL36:
- 222:overdrive.cpp ****         } 
- 617              		.loc 14 222 21 view .LVU153
+ 233:overdrive.cpp ****         } 
+ 617              		.loc 14 233 21 view .LVU153
  618 0060 D2B2     		uxtb	r2, r2
  619              	.LVL37:
- 222:overdrive.cpp ****         } 
- 620              		.loc 14 222 21 view .LVU154
+ 233:overdrive.cpp ****         } 
+ 620              		.loc 14 233 21 view .LVU154
  621 0062 E5E7     		b	.L31
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 30
+
+
  622              	.L30:
- 222:overdrive.cpp ****         } 
- 623              		.loc 14 222 21 view .LVU155
+ 233:overdrive.cpp ****         } 
+ 623              		.loc 14 233 21 view .LVU155
  624              	.LBE221:
- 230:overdrive.cpp ****     }
- 231:overdrive.cpp **** 
- 232:overdrive.cpp ****     /* Overdrive */
- 233:overdrive.cpp ****     float clipIn = fir->fir_out * preGain;
- 625              		.loc 14 233 5 is_stmt 1 view .LVU156
- 626              		.loc 14 233 25 is_stmt 0 view .LVU157
+ 241:overdrive.cpp ****     }
+ 242:overdrive.cpp **** 
+ 243:overdrive.cpp ****     /* Overdrive */
+ 244:overdrive.cpp ****     float clipIn = fir->fir_out * preGain;
+ 625              		.loc 14 244 5 is_stmt 1 view .LVU156
+ 626              		.loc 14 244 25 is_stmt 0 view .LVU157
  627 0064 D0ED367A 		vldr.32	s15, [r0, #216]
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 30
-
-
- 628              		.loc 14 233 11 view .LVU158
+ 628              		.loc 14 244 11 view .LVU158
  629 0068 67EEA07A 		vmul.f32	s15, s15, s1
  630              	.LVL38:
- 234:overdrive.cpp ****     float absClipIn = fabs(clipIn);
- 631              		.loc 14 234 5 is_stmt 1 view .LVU159
+ 245:overdrive.cpp ****     float absClipIn = fabs(clipIn);
+ 631              		.loc 14 245 5 is_stmt 1 view .LVU159
  632              	.LBB222:
  633              	.LBI222:
  634              		.file 15 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\cmath"
@@ -1787,6 +1798,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   36:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** // ISO C++ 14882: 26.5  C library
   37:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** //
   38:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 31
+
+
   39:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #pragma GCC system_header
   40:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
   41:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #include <bits/c++config.h>
@@ -1798,9 +1812,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   47:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #include <bits/std_abs.h>
   48:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
   49:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #ifndef _GLIBCXX_CMATH
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 31
-
-
   50:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #define _GLIBCXX_CMATH 1
   51:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
   52:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** // Get rid of those macros defined in <math.h> in lieu of real functions.
@@ -1847,6 +1858,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   93:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #endif
   94:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
   95:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   template<typename _Tp>
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 32
+
+
   96:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****     inline _GLIBCXX_CONSTEXPR
   97:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****     typename __gnu_cxx::__enable_if<__is_integer<_Tp>::__value, 
   98:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****                                     double>::__type
@@ -1858,9 +1872,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  104:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
  105:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   inline _GLIBCXX_CONSTEXPR float
  106:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   asin(float __x)
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 32
-
-
  107:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   { return __builtin_asinf(__x); }
  108:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
  109:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   inline _GLIBCXX_CONSTEXPR long double
@@ -1907,6 +1918,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  150:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #endif
  151:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
  152:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   template<typename _Tp, typename _Up>
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 33
+
+
  153:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****     inline _GLIBCXX_CONSTEXPR
  154:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****     typename __gnu_cxx::__promote_2<_Tp, _Up>::__type
  155:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****     atan2(_Tp __y, _Up __x)
@@ -1918,9 +1932,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  161:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   using ::ceil;
  162:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
  163:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 33
-
-
  164:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   inline _GLIBCXX_CONSTEXPR float
  165:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   ceil(float __x)
  166:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   { return __builtin_ceilf(__x); }
@@ -1967,6 +1978,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  207:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   cosh(long double __x)
  208:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   { return __builtin_coshl(__x); }
  209:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #endif
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 34
+
+
  210:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
  211:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   template<typename _Tp>
  212:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****     inline _GLIBCXX_CONSTEXPR
@@ -1978,9 +1992,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  218:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   using ::exp;
  219:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** 
  220:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath **** #ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 34
-
-
  221:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   inline _GLIBCXX_CONSTEXPR float
  222:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   exp(float __x)
  223:c:\program files\daisytoolchain\arm-none-eabi\include\c++\10.2.1\cmath ****   { return __builtin_expf(__x); }
@@ -2012,141 +2023,144 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  641              		.loc 15 242 31 view .LVU163
  642              	.LBE223:
  643              	.LBE222:
- 235:overdrive.cpp ****     float signClipIn = (clipIn >= 0.0f) ? 1.0f : -1.0f;
- 644              		.loc 14 235 5 is_stmt 1 view .LVU164
- 645              		.loc 14 235 41 is_stmt 0 view .LVU165
+ 246:overdrive.cpp ****     float signClipIn = (clipIn >= 0.0f) ? 1.0f : -1.0f;
+ 644              		.loc 14 246 5 is_stmt 1 view .LVU164
+ 645              		.loc 14 246 41 is_stmt 0 view .LVU165
  646 0070 F5EEC07A 		vcmpe.f32	s15, #0
  647 0074 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  648 0078 14DB     		blt	.L49
  649 007a B7EE000A 		vmov.f32	s0, #1.0e+0
  650              	.LVL40:
  651              	.L33:
- 236:overdrive.cpp ****     float clipOut = 0.0f;
- 652              		.loc 14 236 5 is_stmt 1 discriminator 4 view .LVU166
- 237:overdrive.cpp **** 
- 238:overdrive.cpp ****     if (absClipIn < 0.33333f)
- 653              		.loc 14 238 5 discriminator 4 view .LVU167
+ 247:overdrive.cpp ****     float clipOut = 0.0f;
+ 652              		.loc 14 247 5 is_stmt 1 discriminator 4 view .LVU166
+ 248:overdrive.cpp **** 
+ 249:overdrive.cpp ****     if (absClipIn < 0.33333f)
+ 653              		.loc 14 249 5 discriminator 4 view .LVU167
  654 007e DFED216A 		vldr.32	s13, .L54+4
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 35
+
+
  655 0082 B4EEE67A 		vcmpe.f32	s14, s13
  656 0086 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  657 008a 0ED5     		bpl	.L50
- 239:overdrive.cpp ****     {
- 240:overdrive.cpp ****         clipOut = 2.0f * clipIn;
- 658              		.loc 14 240 9 view .LVU168
- 659              		.loc 14 240 17 is_stmt 0 view .LVU169
+ 250:overdrive.cpp ****     {
+ 251:overdrive.cpp ****         clipOut = 2.0f * clipIn;
+ 658              		.loc 14 251 9 view .LVU168
+ 659              		.loc 14 251 17 is_stmt 0 view .LVU169
  660 008c 37EEA70A 		vadd.f32	s0, s15, s15
  661              	.LVL41:
  662              	.L37:
- 241:overdrive.cpp ****     } 
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 35
-
-
- 242:overdrive.cpp ****     else if (absClipIn >= 0.33333f && absClipIn < (2.0f * 0.33333f))
- 243:overdrive.cpp ****     {
- 244:overdrive.cpp ****         clipOut = signClipIn * (3.0f - (2.0f - 3.0f * absClipIn) * (2.0f - 3.0f * absClipIn)) / 3.0
- 245:overdrive.cpp ****     }
- 246:overdrive.cpp ****     else
- 247:overdrive.cpp ****     {
- 248:overdrive.cpp ****         clipOut = signClipIn;
- 249:overdrive.cpp ****     }
- 250:overdrive.cpp **** 
- 251:overdrive.cpp ****     if (clipOut > 1.0f)
- 663              		.loc 14 251 5 is_stmt 1 view .LVU170
+ 252:overdrive.cpp ****     } 
+ 253:overdrive.cpp ****     else if (absClipIn >= 0.33333f && absClipIn < (2.0f * 0.33333f))
+ 254:overdrive.cpp ****     {
+ 255:overdrive.cpp ****         clipOut = signClipIn * (3.0f - (2.0f - 3.0f * absClipIn) * (2.0f - 3.0f * absClipIn)) / 3.0
+ 256:overdrive.cpp ****     }
+ 257:overdrive.cpp ****     else
+ 258:overdrive.cpp ****     {
+ 259:overdrive.cpp ****         clipOut = signClipIn;
+ 260:overdrive.cpp ****     }
+ 261:overdrive.cpp **** 
+ 262:overdrive.cpp ****     if (clipOut > 1.0f)
+ 663              		.loc 14 262 5 is_stmt 1 view .LVU170
  664 0090 F7EE007A 		vmov.f32	s15, #1.0e+0
  665 0094 B4EEE70A 		vcmpe.f32	s0, s15
  666 0098 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  667 009c 24DD     		ble	.L52
- 252:overdrive.cpp ****     {
- 253:overdrive.cpp ****         clipOut = 1.0f;
- 668              		.loc 14 253 17 is_stmt 0 view .LVU171
+ 263:overdrive.cpp ****     {
+ 264:overdrive.cpp ****         clipOut = 1.0f;
+ 668              		.loc 14 264 17 is_stmt 0 view .LVU171
  669 009e B7EE000A 		vmov.f32	s0, #1.0e+0
  670              	.LVL42:
- 671              		.loc 14 253 17 view .LVU172
+ 671              		.loc 14 264 17 view .LVU172
  672 00a2 7047     		bx	lr
  673              	.LVL43:
  674              	.L49:
- 235:overdrive.cpp ****     float clipOut = 0.0f;
- 675              		.loc 14 235 41 view .LVU173
+ 246:overdrive.cpp ****     float clipOut = 0.0f;
+ 675              		.loc 14 246 41 view .LVU173
  676 00a4 BFEE000A 		vmov.f32	s0, #-1.0e+0
  677              	.LVL44:
- 235:overdrive.cpp ****     float clipOut = 0.0f;
- 678              		.loc 14 235 41 view .LVU174
+ 246:overdrive.cpp ****     float clipOut = 0.0f;
+ 678              		.loc 14 246 41 view .LVU174
  679 00a8 E9E7     		b	.L33
  680              	.LVL45:
  681              	.L50:
- 242:overdrive.cpp ****     {
- 682              		.loc 14 242 10 is_stmt 1 view .LVU175
+ 253:overdrive.cpp ****     {
+ 682              		.loc 14 253 10 is_stmt 1 view .LVU175
  683 00aa DFED167A 		vldr.32	s15, .L54+4
  684              	.LVL46:
- 242:overdrive.cpp ****     {
- 685              		.loc 14 242 10 is_stmt 0 view .LVU176
+ 253:overdrive.cpp ****     {
+ 685              		.loc 14 253 10 is_stmt 0 view .LVU176
  686 00ae B4EEE77A 		vcmpe.f32	s14, s15
  687 00b2 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  688 00b6 EBDB     		blt	.L37
- 242:overdrive.cpp ****     {
- 689              		.loc 14 242 36 discriminator 1 view .LVU177
+ 253:overdrive.cpp ****     {
+ 689              		.loc 14 253 36 discriminator 1 view .LVU177
  690 00b8 DFED137A 		vldr.32	s15, .L54+8
  691 00bc B4EEE77A 		vcmpe.f32	s14, s15
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 36
+
+
  692 00c0 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  693 00c4 E4D5     		bpl	.L37
- 244:overdrive.cpp ****     }
- 694              		.loc 14 244 9 is_stmt 1 view .LVU178
- 244:overdrive.cpp ****     }
- 695              		.loc 14 244 53 is_stmt 0 view .LVU179
+ 255:overdrive.cpp ****     }
+ 694              		.loc 14 255 9 is_stmt 1 view .LVU178
+ 255:overdrive.cpp ****     }
+ 695              		.loc 14 255 53 is_stmt 0 view .LVU179
  696 00c6 F0EE086A 		vmov.f32	s13, #3.0e+0
  697 00ca 27EE267A 		vmul.f32	s14, s14, s13
  698              	.LVL47:
- 244:overdrive.cpp ****     }
- 699              		.loc 14 244 46 view .LVU180
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 36
-
-
+ 255:overdrive.cpp ****     }
+ 699              		.loc 14 255 46 view .LVU180
  700 00ce F0EE007A 		vmov.f32	s15, #2.0e+0
  701 00d2 37EEC77A 		vsub.f32	s14, s15, s14
- 244:overdrive.cpp ****     }
- 702              		.loc 14 244 66 view .LVU181
+ 255:overdrive.cpp ****     }
+ 702              		.loc 14 255 66 view .LVU181
  703 00d6 27EE077A 		vmul.f32	s14, s14, s14
- 244:overdrive.cpp ****     }
- 704              		.loc 14 244 38 view .LVU182
+ 255:overdrive.cpp ****     }
+ 704              		.loc 14 255 38 view .LVU182
  705 00da 76EEC77A 		vsub.f32	s15, s13, s14
- 244:overdrive.cpp ****     }
- 706              		.loc 14 244 30 view .LVU183
+ 255:overdrive.cpp ****     }
+ 706              		.loc 14 255 30 view .LVU183
  707 00de 67EE807A 		vmul.f32	s15, s15, s0
- 244:overdrive.cpp ****     }
- 708              		.loc 14 244 17 view .LVU184
+ 255:overdrive.cpp ****     }
+ 708              		.loc 14 255 17 view .LVU184
  709 00e2 87EEA60A 		vdiv.f32	s0, s15, s13
  710              	.LVL48:
- 244:overdrive.cpp ****     }
- 711              		.loc 14 244 17 view .LVU185
+ 255:overdrive.cpp ****     }
+ 711              		.loc 14 255 17 view .LVU185
  712 00e6 D3E7     		b	.L37
  713              	.L52:
- 254:overdrive.cpp ****     }
- 255:overdrive.cpp ****     else if (clipOut < -1.0f)
- 714              		.loc 14 255 10 is_stmt 1 view .LVU186
+ 265:overdrive.cpp ****     }
+ 266:overdrive.cpp ****     else if (clipOut < -1.0f)
+ 714              		.loc 14 266 10 is_stmt 1 view .LVU186
  715 00e8 FFEE007A 		vmov.f32	s15, #-1.0e+0
  716 00ec B4EEE70A 		vcmpe.f32	s0, s15
  717 00f0 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  718 00f4 00D4     		bmi	.L53
  719              	.LVL49:
  720              	.L28:
- 256:overdrive.cpp ****     {
- 257:overdrive.cpp ****         clipOut = -1.0f;
- 258:overdrive.cpp ****     }
- 259:overdrive.cpp **** 
- 260:overdrive.cpp ****     return clipOut;
- 261:overdrive.cpp **** }
- 721              		.loc 14 261 1 is_stmt 0 view .LVU187
+ 267:overdrive.cpp ****     {
+ 268:overdrive.cpp ****         clipOut = -1.0f;
+ 269:overdrive.cpp ****     }
+ 270:overdrive.cpp **** 
+ 271:overdrive.cpp ****     return clipOut;
+ 272:overdrive.cpp **** }
+ 721              		.loc 14 272 1 is_stmt 0 view .LVU187
  722 00f6 7047     		bx	lr
  723              	.LVL50:
  724              	.L53:
- 257:overdrive.cpp ****     }
- 725              		.loc 14 257 17 view .LVU188
+ 268:overdrive.cpp ****     }
+ 725              		.loc 14 268 17 view .LVU188
  726 00f8 BFEE000A 		vmov.f32	s0, #-1.0e+0
  727              	.LVL51:
- 260:overdrive.cpp **** }
- 728              		.loc 14 260 5 is_stmt 1 view .LVU189
- 260:overdrive.cpp **** }
- 729              		.loc 14 260 12 is_stmt 0 view .LVU190
+ 271:overdrive.cpp **** }
+ 728              		.loc 14 271 5 is_stmt 1 view .LVU189
+ 271:overdrive.cpp **** }
+ 729              		.loc 14 271 12 is_stmt 0 view .LVU190
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 37
+
+
  730 00fc FBE7     		b	.L28
  731              	.L55:
  732 00fe 00BF     		.align	2
@@ -2158,9 +2172,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  738              	.LFE4702:
  740              		.section	.text._Z18RCfilter_setCutOffP8RCfilterff,"ax",%progbits
  741              		.align	1
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 37
-
-
  742              		.global	_Z18RCfilter_setCutOffP8RCfilterff
  743              		.syntax unified
  744              		.thumb
@@ -2169,139 +2180,139 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  748              	_Z18RCfilter_setCutOffP8RCfilterff:
  749              	.LVL52:
  750              	.LFB4704:
- 262:overdrive.cpp **** 
- 263:overdrive.cpp **** /* ----- RC LP/HP FILTER ----- */
- 264:overdrive.cpp **** 
- 265:overdrive.cpp **** void RCfilter_init(RCfilter *filt, float fc_LP, float fc_HP)
- 266:overdrive.cpp **** {
- 267:overdrive.cpp ****     RCfilter_setCutOff(filt, fc_LP, fc_HP);
- 268:overdrive.cpp ****     filt->out = 0.0f;
- 269:overdrive.cpp ****     filt->out_buffer = 0.0f;
- 270:overdrive.cpp **** }
- 271:overdrive.cpp **** 
- 272:overdrive.cpp **** void RCfilter_setCutOff(RCfilter *filt, float fc_LP, float fc_HP)
- 273:overdrive.cpp **** {
- 751              		.loc 14 273 1 is_stmt 1 view -0
+ 273:overdrive.cpp **** 
+ 274:overdrive.cpp **** /* ----- RC LP/HP FILTER ----- */
+ 275:overdrive.cpp **** 
+ 276:overdrive.cpp **** void RCfilter_init(RCfilter *filt, float fc_LP, float fc_HP)
+ 277:overdrive.cpp **** {
+ 278:overdrive.cpp ****     RCfilter_setCutOff(filt, fc_LP, fc_HP);
+ 279:overdrive.cpp ****     filt->out = 0.0f;
+ 280:overdrive.cpp ****     filt->out_buffer = 0.0f;
+ 281:overdrive.cpp **** }
+ 282:overdrive.cpp **** 
+ 283:overdrive.cpp **** void RCfilter_setCutOff(RCfilter *filt, float fc_LP, float fc_HP)
+ 284:overdrive.cpp **** {
+ 751              		.loc 14 284 1 is_stmt 1 view -0
  752              		.cfi_startproc
  753              		@ args = 0, pretend = 0, frame = 0
  754              		@ frame_needed = 0, uses_anonymous_args = 0
  755              		@ link register save eliminated.
- 274:overdrive.cpp ****     if (filt->filterType == LOWPASS)
- 756              		.loc 14 274 5 view .LVU192
- 757              		.loc 14 274 15 is_stmt 0 view .LVU193
+ 285:overdrive.cpp ****     if (filt->filterType == LOWPASS)
+ 756              		.loc 14 285 5 view .LVU192
+ 757              		.loc 14 285 15 is_stmt 0 view .LVU193
  758 0000 90F83030 		ldrb	r3, [r0, #48]	@ zero_extendqisi2
- 759              		.loc 14 274 5 view .LVU194
+ 759              		.loc 14 285 5 view .LVU194
  760 0004 012B     		cmp	r3, #1
  761 0006 02D0     		beq	.L61
- 275:overdrive.cpp ****     {
- 276:overdrive.cpp ****         if (fc_LP<50) fc_LP=50; // 50 Hz threshold (sound cuts out around here)
- 277:overdrive.cpp ****         filt->RC = 1.0f / (PI_2 * fc_LP);
- 278:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
- 279:overdrive.cpp ****         filt->LP_coeff[0] = SAMPLE_TIME / (SAMPLE_TIME + filt->RC);
- 280:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
- 281:overdrive.cpp ****     }
- 282:overdrive.cpp ****     else if (filt->filterType == HIGHPASS)
- 762              		.loc 14 282 10 is_stmt 1 view .LVU195
+ 286:overdrive.cpp ****     {
+ 287:overdrive.cpp ****         if (fc_LP<50) fc_LP=50; // 50 Hz threshold (sound cuts out around here)
+ 288:overdrive.cpp ****         filt->RC = 1.0f / (PI_2 * fc_LP);
+ 289:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
+ 290:overdrive.cpp ****         filt->LP_coeff[0] = SAMPLE_TIME / (SAMPLE_TIME + filt->RC);
+ 291:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
+ 292:overdrive.cpp ****     }
+ 293:overdrive.cpp ****     else if (filt->filterType == HIGHPASS)
+ 762              		.loc 14 293 10 is_stmt 1 view .LVU195
  763 0008 022B     		cmp	r3, #2
  764 000a 2AD0     		beq	.L62
  765              	.L56:
- 283:overdrive.cpp ****     {
- 284:overdrive.cpp ****         filt->alpha = PI_2 * SAMPLE_TIME * fc_HP;
- 285:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
- 286:overdrive.cpp ****     }
- 287:overdrive.cpp **** }
- 766              		.loc 14 287 1 is_stmt 0 view .LVU196
+ 294:overdrive.cpp ****     {
+ 295:overdrive.cpp ****         filt->alpha = PI_2 * SAMPLE_TIME * fc_HP;
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 38
+
+
+ 296:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
+ 297:overdrive.cpp ****     }
+ 298:overdrive.cpp **** }
+ 766              		.loc 14 298 1 is_stmt 0 view .LVU196
  767 000c 7047     		bx	lr
  768              	.L61:
- 276:overdrive.cpp ****         filt->RC = 1.0f / (PI_2 * fc_LP);
- 769              		.loc 14 276 9 is_stmt 1 view .LVU197
+ 287:overdrive.cpp ****         filt->RC = 1.0f / (PI_2 * fc_LP);
+ 769              		.loc 14 287 9 is_stmt 1 view .LVU197
  770 000e DFED247A 		vldr.32	s15, .L63+24
  771 0012 B4EEE70A 		vcmpe.f32	s0, s15
  772 0016 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 38
-
-
  773 001a 01D5     		bpl	.L58
- 276:overdrive.cpp ****         filt->RC = 1.0f / (PI_2 * fc_LP);
- 774              		.loc 14 276 28 is_stmt 0 view .LVU198
+ 287:overdrive.cpp ****         filt->RC = 1.0f / (PI_2 * fc_LP);
+ 774              		.loc 14 287 28 is_stmt 0 view .LVU198
  775 001c B0EE670A 		vmov.f32	s0, s15
  776              	.LVL53:
  777              	.L58:
- 277:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
- 778              		.loc 14 277 9 is_stmt 1 view .LVU199
- 277:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
- 779              		.loc 14 277 35 is_stmt 0 view .LVU200
+ 288:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
+ 778              		.loc 14 288 9 is_stmt 1 view .LVU199
+ 288:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
+ 779              		.loc 14 288 35 is_stmt 0 view .LVU200
  780 0020 B7EEC00A 		vcvt.f64.f32	d0, s0
  781              	.LVL54:
- 277:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
- 782              		.loc 14 277 33 view .LVU201
+ 288:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
+ 782              		.loc 14 288 33 view .LVU201
  783 0024 9FED187B 		vldr.64	d7, .L63
  784 0028 20EE070B 		vmul.f64	d0, d0, d7
- 277:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
- 785              		.loc 14 277 25 view .LVU202
+ 288:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
+ 785              		.loc 14 288 25 view .LVU202
  786 002c B7EE006B 		vmov.f64	d6, #1.0e+0
  787 0030 86EE007B 		vdiv.f64	d7, d6, d0
  788 0034 B7EEC77B 		vcvt.f32.f64	s14, d7
- 277:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
- 789              		.loc 14 277 18 view .LVU203
+ 288:overdrive.cpp ****         /* Compute filter coefficients with new cut off frequency */
+ 789              		.loc 14 288 18 view .LVU203
  790 0038 80ED0B7A 		vstr.32	s14, [r0, #44]
- 279:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
- 791              		.loc 14 279 9 is_stmt 1 view .LVU204
- 279:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
- 792              		.loc 14 279 64 is_stmt 0 view .LVU205
+ 290:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
+ 791              		.loc 14 290 9 is_stmt 1 view .LVU204
+ 290:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
+ 792              		.loc 14 290 64 is_stmt 0 view .LVU205
  793 003c B7EEC77A 		vcvt.f64.f32	d7, s14
- 279:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
- 794              		.loc 14 279 56 view .LVU206
+ 290:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
+ 794              		.loc 14 290 56 view .LVU206
  795 0040 9FED134B 		vldr.64	d4, .L63+8
  796 0044 37EE045B 		vadd.f64	d5, d7, d4
- 279:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
- 797              		.loc 14 279 41 view .LVU207
+ 290:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
+ 797              		.loc 14 290 41 view .LVU207
  798 0048 84EE056B 		vdiv.f64	d6, d4, d5
  799 004c B7EEC66B 		vcvt.f32.f64	s12, d6
- 279:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
- 800              		.loc 14 279 27 view .LVU208
+ 290:overdrive.cpp ****         filt->LP_coeff[1] = filt->RC / (SAMPLE_TIME + filt->RC);
+ 800              		.loc 14 290 27 view .LVU208
  801 0050 80ED006A 		vstr.32	s12, [r0]
- 280:overdrive.cpp ****     }
- 802              		.loc 14 280 9 is_stmt 1 view .LVU209
- 280:overdrive.cpp ****     }
- 803              		.loc 14 280 38 is_stmt 0 view .LVU210
+ 291:overdrive.cpp ****     }
+ 802              		.loc 14 291 9 is_stmt 1 view .LVU209
+ 291:overdrive.cpp ****     }
+ 803              		.loc 14 291 38 is_stmt 0 view .LVU210
  804 0054 87EE056B 		vdiv.f64	d6, d7, d5
  805 0058 B7EEC66B 		vcvt.f32.f64	s12, d6
- 280:overdrive.cpp ****     }
- 806              		.loc 14 280 27 view .LVU211
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 39
+
+
+ 291:overdrive.cpp ****     }
+ 806              		.loc 14 291 27 view .LVU211
  807 005c 80ED016A 		vstr.32	s12, [r0, #4]
  808 0060 7047     		bx	lr
  809              	.LVL55:
  810              	.L62:
- 284:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
- 811              		.loc 14 284 9 is_stmt 1 view .LVU212
- 284:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
- 812              		.loc 14 284 44 is_stmt 0 view .LVU213
+ 295:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
+ 811              		.loc 14 295 9 is_stmt 1 view .LVU212
+ 295:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
+ 812              		.loc 14 295 44 is_stmt 0 view .LVU213
  813 0062 B7EEE07A 		vcvt.f64.f32	d7, s1
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 39
-
-
- 284:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
- 814              		.loc 14 284 42 view .LVU214
+ 295:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
+ 814              		.loc 14 295 42 view .LVU214
  815 0066 9FED0C6B 		vldr.64	d6, .L63+16
  816 006a 27EE067B 		vmul.f64	d7, d7, d6
  817 006e B7EEC77B 		vcvt.f32.f64	s14, d7
- 284:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
- 818              		.loc 14 284 21 view .LVU215
+ 295:overdrive.cpp ****         filt->HP_coeff = 1.0f / (1.0f + filt->alpha);
+ 818              		.loc 14 295 21 view .LVU215
  819 0072 80ED037A 		vstr.32	s14, [r0, #12]
- 285:overdrive.cpp ****     }
- 820              		.loc 14 285 9 is_stmt 1 view .LVU216
- 285:overdrive.cpp ****     }
- 821              		.loc 14 285 39 is_stmt 0 view .LVU217
+ 296:overdrive.cpp ****     }
+ 820              		.loc 14 296 9 is_stmt 1 view .LVU216
+ 296:overdrive.cpp ****     }
+ 821              		.loc 14 296 39 is_stmt 0 view .LVU217
  822 0076 F7EE007A 		vmov.f32	s15, #1.0e+0
  823 007a 37EE277A 		vadd.f32	s14, s14, s15
- 285:overdrive.cpp ****     }
- 824              		.loc 14 285 31 view .LVU218
+ 296:overdrive.cpp ****     }
+ 824              		.loc 14 296 31 view .LVU218
  825 007e C7EE876A 		vdiv.f32	s13, s15, s14
- 285:overdrive.cpp ****     }
- 826              		.loc 14 285 24 view .LVU219
+ 296:overdrive.cpp ****     }
+ 826              		.loc 14 296 24 view .LVU219
  827 0082 C0ED026A 		vstr.32	s13, [r0, #8]
- 828              		.loc 14 287 1 view .LVU220
+ 828              		.loc 14 298 1 view .LVU220
  829 0086 C1E7     		b	.L56
  830              	.L64:
  831              		.align	3
@@ -2325,43 +2336,43 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  851              	_Z13RCfilter_initP8RCfilterff:
  852              	.LVL56:
  853              	.LFB4703:
- 266:overdrive.cpp ****     RCfilter_setCutOff(filt, fc_LP, fc_HP);
- 854              		.loc 14 266 1 is_stmt 1 view -0
+ 277:overdrive.cpp ****     RCfilter_setCutOff(filt, fc_LP, fc_HP);
+ 854              		.loc 14 277 1 is_stmt 1 view -0
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 40
+
+
  855              		.cfi_startproc
  856              		@ args = 0, pretend = 0, frame = 0
  857              		@ frame_needed = 0, uses_anonymous_args = 0
- 266:overdrive.cpp ****     RCfilter_setCutOff(filt, fc_LP, fc_HP);
- 858              		.loc 14 266 1 is_stmt 0 view .LVU222
+ 277:overdrive.cpp ****     RCfilter_setCutOff(filt, fc_LP, fc_HP);
+ 858              		.loc 14 277 1 is_stmt 0 view .LVU222
  859 0000 10B5     		push	{r4, lr}
  860              		.cfi_def_cfa_offset 8
  861              		.cfi_offset 4, -8
  862              		.cfi_offset 14, -4
  863 0002 0446     		mov	r4, r0
- 267:overdrive.cpp ****     filt->out = 0.0f;
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 40
-
-
- 864              		.loc 14 267 5 is_stmt 1 view .LVU223
- 267:overdrive.cpp ****     filt->out = 0.0f;
- 865              		.loc 14 267 23 is_stmt 0 view .LVU224
+ 278:overdrive.cpp ****     filt->out = 0.0f;
+ 864              		.loc 14 278 5 is_stmt 1 view .LVU223
+ 278:overdrive.cpp ****     filt->out = 0.0f;
+ 865              		.loc 14 278 23 is_stmt 0 view .LVU224
  866 0004 FFF7FEFF 		bl	_Z18RCfilter_setCutOffP8RCfilterff
  867              	.LVL57:
- 268:overdrive.cpp ****     filt->out_buffer = 0.0f;
- 868              		.loc 14 268 5 is_stmt 1 view .LVU225
- 268:overdrive.cpp ****     filt->out_buffer = 0.0f;
- 869              		.loc 14 268 15 is_stmt 0 view .LVU226
+ 279:overdrive.cpp ****     filt->out_buffer = 0.0f;
+ 868              		.loc 14 279 5 is_stmt 1 view .LVU225
+ 279:overdrive.cpp ****     filt->out_buffer = 0.0f;
+ 869              		.loc 14 279 15 is_stmt 0 view .LVU226
  870 0008 0023     		movs	r3, #0
  871 000a 2361     		str	r3, [r4, #16]	@ float
- 269:overdrive.cpp **** }
- 872              		.loc 14 269 5 is_stmt 1 view .LVU227
- 269:overdrive.cpp **** }
- 873              		.loc 14 269 22 is_stmt 0 view .LVU228
+ 280:overdrive.cpp **** }
+ 872              		.loc 14 280 5 is_stmt 1 view .LVU227
+ 280:overdrive.cpp **** }
+ 873              		.loc 14 280 22 is_stmt 0 view .LVU228
  874 000c 6362     		str	r3, [r4, #36]	@ float
- 270:overdrive.cpp **** 
- 875              		.loc 14 270 1 view .LVU229
+ 281:overdrive.cpp **** 
+ 875              		.loc 14 281 1 view .LVU229
  876 000e 10BD     		pop	{r4, pc}
- 270:overdrive.cpp **** 
- 877              		.loc 14 270 1 view .LVU230
+ 281:overdrive.cpp **** 
+ 877              		.loc 14 281 1 view .LVU230
  878              		.cfi_endproc
  879              	.LFE4703:
  881              		.section	.text._Z18LP_RCfilter_UpdateP8RCfilterf,"ax",%progbits
@@ -2374,48 +2385,48 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  889              	_Z18LP_RCfilter_UpdateP8RCfilterf:
  890              	.LVL58:
  891              	.LFB4705:
- 288:overdrive.cpp **** 
- 289:overdrive.cpp **** float LP_RCfilter_Update(RCfilter *filt, float input) 
- 290:overdrive.cpp **** {
- 892              		.loc 14 290 1 is_stmt 1 view -0
+ 299:overdrive.cpp **** 
+ 300:overdrive.cpp **** float LP_RCfilter_Update(RCfilter *filt, float input) 
+ 301:overdrive.cpp **** {
+ 892              		.loc 14 301 1 is_stmt 1 view -0
  893              		.cfi_startproc
  894              		@ args = 0, pretend = 0, frame = 0
  895              		@ frame_needed = 0, uses_anonymous_args = 0
  896              		@ link register save eliminated.
- 291:overdrive.cpp ****     filt->LP_out = filt->LP_coeff[0] * input + filt->LP_coeff[1] * filt->LP_out_prev;
- 897              		.loc 14 291 5 view .LVU232
- 898              		.loc 14 291 36 is_stmt 0 view .LVU233
+ 302:overdrive.cpp ****     filt->LP_out = filt->LP_coeff[0] * input + filt->LP_coeff[1] * filt->LP_out_prev;
+ 897              		.loc 14 302 5 view .LVU232
+ 898              		.loc 14 302 36 is_stmt 0 view .LVU233
  899 0000 D0ED007A 		vldr.32	s15, [r0]
- 900              		.loc 14 291 38 view .LVU234
+ 900              		.loc 14 302 38 view .LVU234
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 41
+
+
  901 0004 27EE800A 		vmul.f32	s0, s15, s0
  902              	.LVL59:
- 903              		.loc 14 291 64 view .LVU235
+ 903              		.loc 14 302 64 view .LVU235
  904 0008 D0ED017A 		vldr.32	s15, [r0, #4]
- 905              		.loc 14 291 74 view .LVU236
+ 905              		.loc 14 302 74 view .LVU236
  906 000c 90ED0A7A 		vldr.32	s14, [r0, #40]
- 907              		.loc 14 291 66 view .LVU237
+ 907              		.loc 14 302 66 view .LVU237
  908 0010 67EE877A 		vmul.f32	s15, s15, s14
- 909              		.loc 14 291 46 view .LVU238
+ 909              		.loc 14 302 46 view .LVU238
  910 0014 30EE270A 		vadd.f32	s0, s0, s15
- 911              		.loc 14 291 18 view .LVU239
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 41
-
-
+ 911              		.loc 14 302 18 view .LVU239
  912 0018 80ED050A 		vstr.32	s0, [r0, #20]
- 292:overdrive.cpp ****     filt->LP_out_prev = filt->LP_out;
- 913              		.loc 14 292 5 is_stmt 1 view .LVU240
- 914              		.loc 14 292 23 is_stmt 0 view .LVU241
+ 303:overdrive.cpp ****     filt->LP_out_prev = filt->LP_out;
+ 913              		.loc 14 303 5 is_stmt 1 view .LVU240
+ 914              		.loc 14 303 23 is_stmt 0 view .LVU241
  915 001c 80ED0A0A 		vstr.32	s0, [r0, #40]
- 293:overdrive.cpp **** 
- 294:overdrive.cpp ****     /*if (filt->out > 1.0f) 
- 295:overdrive.cpp ****         filt->out = 1.0f;
- 296:overdrive.cpp ****     else if (filt->out < -1.0f) 
- 297:overdrive.cpp ****         filt->out = -1.0f;*/
- 298:overdrive.cpp **** 
- 299:overdrive.cpp ****     return filt->LP_out; 
- 916              		.loc 14 299 5 is_stmt 1 view .LVU242
- 300:overdrive.cpp **** }
- 917              		.loc 14 300 1 is_stmt 0 view .LVU243
+ 304:overdrive.cpp **** 
+ 305:overdrive.cpp ****     /*if (filt->out > 1.0f) 
+ 306:overdrive.cpp ****         filt->out = 1.0f;
+ 307:overdrive.cpp ****     else if (filt->out < -1.0f) 
+ 308:overdrive.cpp ****         filt->out = -1.0f;*/
+ 309:overdrive.cpp **** 
+ 310:overdrive.cpp ****     return filt->LP_out; 
+ 916              		.loc 14 310 5 is_stmt 1 view .LVU242
+ 311:overdrive.cpp **** }
+ 917              		.loc 14 311 1 is_stmt 0 view .LVU243
  918 0020 7047     		bx	lr
  919              		.cfi_endproc
  920              	.LFE4705:
@@ -2429,48 +2440,48 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  930              	_Z18HP_RCfilter_UpdateP8RCfilterf:
  931              	.LVL60:
  932              	.LFB4706:
- 301:overdrive.cpp **** 
- 302:overdrive.cpp **** float HP_RCfilter_Update(RCfilter *filt, float input) 
- 303:overdrive.cpp **** {
- 933              		.loc 14 303 1 is_stmt 1 view -0
+ 312:overdrive.cpp **** 
+ 313:overdrive.cpp **** float HP_RCfilter_Update(RCfilter *filt, float input) 
+ 314:overdrive.cpp **** {
+ 933              		.loc 14 314 1 is_stmt 1 view -0
  934              		.cfi_startproc
  935              		@ args = 0, pretend = 0, frame = 0
  936              		@ frame_needed = 0, uses_anonymous_args = 0
  937              		@ link register save eliminated.
- 938              		.loc 14 303 1 is_stmt 0 view .LVU245
+ 938              		.loc 14 314 1 is_stmt 0 view .LVU245
  939 0000 F0EE406A 		vmov.f32	s13, s0
- 304:overdrive.cpp ****     filt->HP_out = filt->HP_coeff * ((input - filt->HP_in_prev) + filt->HP_out_prev);
- 940              		.loc 14 304 5 is_stmt 1 view .LVU246
- 941              		.loc 14 304 26 is_stmt 0 view .LVU247
+ 315:overdrive.cpp ****     filt->HP_out = filt->HP_coeff * ((input - filt->HP_in_prev) + filt->HP_out_prev);
+ 940              		.loc 14 315 5 is_stmt 1 view .LVU246
+ 941              		.loc 14 315 26 is_stmt 0 view .LVU247
  942 0004 D0ED027A 		vldr.32	s15, [r0, #8]
- 943              		.loc 14 304 53 view .LVU248
+ 943              		.loc 14 315 53 view .LVU248
  944 0008 90ED077A 		vldr.32	s14, [r0, #28]
- 945              		.loc 14 304 45 view .LVU249
+ 945              		.loc 14 315 45 view .LVU249
  946 000c 30EE477A 		vsub.f32	s14, s0, s14
- 947              		.loc 14 304 73 view .LVU250
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 42
+
+
+ 947              		.loc 14 315 73 view .LVU250
  948 0010 90ED080A 		vldr.32	s0, [r0, #32]
  949              	.LVL61:
- 950              		.loc 14 304 65 view .LVU251
+ 950              		.loc 14 315 65 view .LVU251
  951 0014 37EE007A 		vadd.f32	s14, s14, s0
- 952              		.loc 14 304 35 view .LVU252
+ 952              		.loc 14 315 35 view .LVU252
  953 0018 27EE870A 		vmul.f32	s0, s15, s14
- 954              		.loc 14 304 18 view .LVU253
+ 954              		.loc 14 315 18 view .LVU253
  955 001c 80ED060A 		vstr.32	s0, [r0, #24]
- 305:overdrive.cpp ****     filt->HP_out_prev = filt->HP_out;
- 956              		.loc 14 305 5 is_stmt 1 view .LVU254
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 42
-
-
- 957              		.loc 14 305 23 is_stmt 0 view .LVU255
+ 316:overdrive.cpp ****     filt->HP_out_prev = filt->HP_out;
+ 956              		.loc 14 316 5 is_stmt 1 view .LVU254
+ 957              		.loc 14 316 23 is_stmt 0 view .LVU255
  958 0020 80ED080A 		vstr.32	s0, [r0, #32]
- 306:overdrive.cpp ****     filt->HP_in_prev = input; 
- 959              		.loc 14 306 5 is_stmt 1 view .LVU256
- 960              		.loc 14 306 22 is_stmt 0 view .LVU257
+ 317:overdrive.cpp ****     filt->HP_in_prev = input; 
+ 959              		.loc 14 317 5 is_stmt 1 view .LVU256
+ 960              		.loc 14 317 22 is_stmt 0 view .LVU257
  961 0024 C0ED076A 		vstr.32	s13, [r0, #28]
- 307:overdrive.cpp ****     return filt->HP_out;
- 962              		.loc 14 307 5 is_stmt 1 view .LVU258
- 308:overdrive.cpp **** }
- 963              		.loc 14 308 1 is_stmt 0 view .LVU259
+ 318:overdrive.cpp ****     return filt->HP_out;
+ 962              		.loc 14 318 5 is_stmt 1 view .LVU258
+ 319:overdrive.cpp **** }
+ 963              		.loc 14 319 1 is_stmt 0 view .LVU259
  964 0028 7047     		bx	lr
  965              		.cfi_endproc
  966              	.LFE4706:
@@ -2484,53 +2495,53 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  976              	_Z9softClip1f:
  977              	.LVL62:
  978              	.LFB4707:
- 309:overdrive.cpp **** 
- 310:overdrive.cpp **** 
- 311:overdrive.cpp **** float softClip1(float in)
- 312:overdrive.cpp **** {
- 979              		.loc 14 312 1 is_stmt 1 view -0
+ 320:overdrive.cpp **** 
+ 321:overdrive.cpp **** 
+ 322:overdrive.cpp **** float softClip1(float in)
+ 323:overdrive.cpp **** {
+ 979              		.loc 14 323 1 is_stmt 1 view -0
  980              		.cfi_startproc
  981              		@ args = 0, pretend = 0, frame = 0
  982              		@ frame_needed = 0, uses_anonymous_args = 0
- 983              		.loc 14 312 1 is_stmt 0 view .LVU261
+ 983              		.loc 14 323 1 is_stmt 0 view .LVU261
  984 0000 08B5     		push	{r3, lr}
  985              		.cfi_def_cfa_offset 8
  986              		.cfi_offset 3, -8
  987              		.cfi_offset 14, -4
- 313:overdrive.cpp ****     if(in > 0)
- 988              		.loc 14 313 5 is_stmt 1 view .LVU262
+ 324:overdrive.cpp ****     if(in > 0)
+ 988              		.loc 14 324 5 is_stmt 1 view .LVU262
  989 0002 B5EEC00A 		vcmpe.f32	s0, #0
  990 0006 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  991 000a 08DD     		ble	.L74
- 314:overdrive.cpp ****         return 1 - expf(-in);
- 992              		.loc 14 314 9 view .LVU263
- 993              		.loc 14 314 24 is_stmt 0 view .LVU264
+ 325:overdrive.cpp ****         return 1 - expf(-in);
+ 992              		.loc 14 325 9 view .LVU263
+ 993              		.loc 14 325 24 is_stmt 0 view .LVU264
  994 000c B1EE400A 		vneg.f32	s0, s0
  995              	.LVL63:
- 996              		.loc 14 314 24 view .LVU265
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 43
+
+
+ 996              		.loc 14 325 24 view .LVU265
  997 0010 FFF7FEFF 		bl	expf
  998              	.LVL64:
- 999              		.loc 14 314 28 view .LVU266
+ 999              		.loc 14 325 28 view .LVU266
  1000 0014 F7EE007A 		vmov.f32	s15, #1.0e+0
  1001 0018 37EEC00A 		vsub.f32	s0, s15, s0
  1002              	.L69:
- 315:overdrive.cpp ****     return -1 + expf(in);
- 316:overdrive.cpp **** }
- 1003              		.loc 14 316 1 view .LVU267
+ 326:overdrive.cpp ****     return -1 + expf(in);
+ 327:overdrive.cpp **** }
+ 1003              		.loc 14 327 1 view .LVU267
  1004 001c 08BD     		pop	{r3, pc}
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 43
-
-
  1005              	.LVL65:
  1006              	.L74:
- 315:overdrive.cpp ****     return -1 + expf(in);
- 1007              		.loc 14 315 5 is_stmt 1 view .LVU268
- 315:overdrive.cpp ****     return -1 + expf(in);
- 1008              		.loc 14 315 21 is_stmt 0 view .LVU269
+ 326:overdrive.cpp ****     return -1 + expf(in);
+ 1007              		.loc 14 326 5 is_stmt 1 view .LVU268
+ 326:overdrive.cpp ****     return -1 + expf(in);
+ 1008              		.loc 14 326 21 is_stmt 0 view .LVU269
  1009 001e FFF7FEFF 		bl	expf
  1010              	.LVL66:
- 315:overdrive.cpp ****     return -1 + expf(in);
- 1011              		.loc 14 315 24 view .LVU270
+ 326:overdrive.cpp ****     return -1 + expf(in);
+ 1011              		.loc 14 326 24 view .LVU270
  1012 0022 F7EE007A 		vmov.f32	s15, #1.0e+0
  1013 0026 30EE670A 		vsub.f32	s0, s0, s15
  1014 002a F7E7     		b	.L69
@@ -2546,13 +2557,13 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1026              	_Z13AudioCallbackPKPKfPPfj:
  1027              	.LVL67:
  1028              	.LFB4699:
- 121:overdrive.cpp ****     pedalControls();
- 1029              		.loc 14 121 1 is_stmt 1 view -0
+ 139:overdrive.cpp ****     pedalControls();
+ 1029              		.loc 14 139 1 is_stmt 1 view -0
  1030              		.cfi_startproc
  1031              		@ args = 0, pretend = 0, frame = 0
  1032              		@ frame_needed = 0, uses_anonymous_args = 0
- 121:overdrive.cpp ****     pedalControls();
- 1033              		.loc 14 121 1 is_stmt 0 view .LVU272
+ 139:overdrive.cpp ****     pedalControls();
+ 1033              		.loc 14 139 1 is_stmt 0 view .LVU272
  1034 0000 2DE9F047 		push	{r4, r5, r6, r7, r8, r9, r10, lr}
  1035              		.cfi_def_cfa_offset 32
  1036              		.cfi_offset 4, -32
@@ -2566,247 +2577,250 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1044 0004 0746     		mov	r7, r0
  1045 0006 8846     		mov	r8, r1
  1046 0008 1646     		mov	r6, r2
- 122:overdrive.cpp ****     ProcessADC();
- 1047              		.loc 14 122 5 is_stmt 1 view .LVU273
- 122:overdrive.cpp ****     ProcessADC();
- 1048              		.loc 14 122 18 is_stmt 0 view .LVU274
+ 140:overdrive.cpp ****     ProcessADC();
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 44
+
+
+ 1047              		.loc 14 140 5 is_stmt 1 view .LVU273
+ 140:overdrive.cpp ****     ProcessADC();
+ 1048              		.loc 14 140 18 is_stmt 0 view .LVU274
  1049 000a FFF7FEFF 		bl	_Z13pedalControlsv
  1050              	.LVL68:
- 123:overdrive.cpp **** 
- 1051              		.loc 14 123 5 is_stmt 1 view .LVU275
- 126:overdrive.cpp ****     {
- 1052              		.loc 14 126 5 view .LVU276
- 126:overdrive.cpp ****     {
- 1053              		.loc 14 126 24 is_stmt 0 view .LVU277
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 44
-
-
+ 141:overdrive.cpp **** 
+ 1051              		.loc 14 141 5 is_stmt 1 view .LVU275
+ 144:overdrive.cpp ****     {
+ 1052              		.loc 14 144 5 view .LVU276
+ 144:overdrive.cpp ****     {
+ 1053              		.loc 14 144 24 is_stmt 0 view .LVU277
  1054 000e 634B     		ldr	r3, .L96
  1055 0010 D3ED037A 		vldr.32	s15, [r3, #12]
- 126:overdrive.cpp ****     {
- 1056              		.loc 14 126 47 view .LVU278
+ 144:overdrive.cpp ****     {
+ 1056              		.loc 14 144 47 view .LVU278
  1057 0014 93ED087A 		vldr.32	s14, [r3, #32]
- 126:overdrive.cpp ****     {
- 1058              		.loc 14 126 5 view .LVU279
+ 144:overdrive.cpp ****     {
+ 1058              		.loc 14 144 5 view .LVU279
  1059 0018 F4EE477A 		vcmp.f32	s15, s14
  1060 001c F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  1061 0020 0BD1     		bne	.L92
  1062              	.L77:
- 134:overdrive.cpp ****     {
- 1063              		.loc 14 134 5 is_stmt 1 view .LVU280
- 134:overdrive.cpp ****     {
- 1064              		.loc 14 134 24 is_stmt 0 view .LVU281
+ 152:overdrive.cpp ****     {
+ 1063              		.loc 14 152 5 is_stmt 1 view .LVU280
+ 152:overdrive.cpp ****     {
+ 1064              		.loc 14 152 24 is_stmt 0 view .LVU281
  1065 0022 5E4B     		ldr	r3, .L96
  1066 0024 D3ED047A 		vldr.32	s15, [r3, #16]
- 134:overdrive.cpp ****     {
- 1067              		.loc 14 134 47 view .LVU282
+ 152:overdrive.cpp ****     {
+ 1067              		.loc 14 152 47 view .LVU282
  1068 0028 93ED097A 		vldr.32	s14, [r3, #36]
- 134:overdrive.cpp ****     {
- 1069              		.loc 14 134 5 view .LVU283
+ 152:overdrive.cpp ****     {
+ 1069              		.loc 14 152 5 view .LVU283
  1070 002c F4EE477A 		vcmp.f32	s15, s14
  1071 0030 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  1072 0034 11D1     		bne	.L93
  1073              	.L78:
- 121:overdrive.cpp ****     pedalControls();
- 1074              		.loc 14 121 1 discriminator 1 view .LVU284
+ 139:overdrive.cpp ****     pedalControls();
+ 1074              		.loc 14 139 1 discriminator 1 view .LVU284
  1075 0036 0024     		movs	r4, #0
  1076 0038 48E0     		b	.L88
  1077              	.L92:
- 128:overdrive.cpp ****         RCfilter_setCutOff(&filter, 5000.0f * pedalAttribute.POT2, 0.0f);
- 1078              		.loc 14 128 9 is_stmt 1 view .LVU285
- 128:overdrive.cpp ****         RCfilter_setCutOff(&filter, 5000.0f * pedalAttribute.POT2, 0.0f);
- 1079              		.loc 14 128 27 is_stmt 0 view .LVU286
+ 146:overdrive.cpp ****         RCfilter_setCutOff(&filter, 5000.0f * pedalAttribute.POT2, 0.0f);
+ 1078              		.loc 14 146 9 is_stmt 1 view .LVU285
+ 146:overdrive.cpp ****         RCfilter_setCutOff(&filter, 5000.0f * pedalAttribute.POT2, 0.0f);
+ 1079              		.loc 14 146 27 is_stmt 0 view .LVU286
  1080 003a 5948     		ldr	r0, .L96+4
  1081 003c 0123     		movs	r3, #1
  1082 003e 80F83030 		strb	r3, [r0, #48]
- 129:overdrive.cpp ****         pedalAttribute.previous_POT2 = pedalAttribute.POT2;
- 1083              		.loc 14 129 9 is_stmt 1 view .LVU287
- 129:overdrive.cpp ****         pedalAttribute.previous_POT2 = pedalAttribute.POT2;
- 1084              		.loc 14 129 27 is_stmt 0 view .LVU288
+ 147:overdrive.cpp ****         pedalAttribute.previous_POT2 = pedalAttribute.POT2;
+ 1083              		.loc 14 147 9 is_stmt 1 view .LVU287
+ 147:overdrive.cpp ****         pedalAttribute.previous_POT2 = pedalAttribute.POT2;
+ 1084              		.loc 14 147 27 is_stmt 0 view .LVU288
  1085 0042 DFED580A 		vldr.32	s1, .L96+8
  1086 0046 9FED580A 		vldr.32	s0, .L96+12
  1087 004a 27EE800A 		vmul.f32	s0, s15, s0
  1088 004e FFF7FEFF 		bl	_Z18RCfilter_setCutOffP8RCfilterff
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 45
+
+
  1089              	.LVL69:
- 130:overdrive.cpp ****     }
- 1090              		.loc 14 130 9 is_stmt 1 view .LVU289
- 130:overdrive.cpp ****     }
- 1091              		.loc 14 130 55 is_stmt 0 view .LVU290
+ 148:overdrive.cpp ****     }
+ 1090              		.loc 14 148 9 is_stmt 1 view .LVU289
+ 148:overdrive.cpp ****     }
+ 1091              		.loc 14 148 55 is_stmt 0 view .LVU290
  1092 0052 524B     		ldr	r3, .L96
  1093 0054 DA68     		ldr	r2, [r3, #12]	@ float
- 130:overdrive.cpp ****     }
- 1094              		.loc 14 130 38 view .LVU291
+ 148:overdrive.cpp ****     }
+ 1094              		.loc 14 148 38 view .LVU291
  1095 0056 1A62     		str	r2, [r3, #32]	@ float
  1096 0058 E3E7     		b	.L77
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 45
-
-
  1097              	.L93:
- 136:overdrive.cpp ****         RCfilter_setCutOff(&filter, 0.0f, 2000.0f * pedalAttribute.POT3);
- 1098              		.loc 14 136 9 is_stmt 1 view .LVU292
- 136:overdrive.cpp ****         RCfilter_setCutOff(&filter, 0.0f, 2000.0f * pedalAttribute.POT3);
- 1099              		.loc 14 136 27 is_stmt 0 view .LVU293
+ 154:overdrive.cpp ****         RCfilter_setCutOff(&filter, 0.0f, 2000.0f * pedalAttribute.POT3);
+ 1098              		.loc 14 154 9 is_stmt 1 view .LVU292
+ 154:overdrive.cpp ****         RCfilter_setCutOff(&filter, 0.0f, 2000.0f * pedalAttribute.POT3);
+ 1099              		.loc 14 154 27 is_stmt 0 view .LVU293
  1100 005a 5148     		ldr	r0, .L96+4
  1101 005c 0223     		movs	r3, #2
  1102 005e 80F83030 		strb	r3, [r0, #48]
- 137:overdrive.cpp ****         pedalAttribute.previous_POT3 = pedalAttribute.POT3;
- 1103              		.loc 14 137 9 is_stmt 1 view .LVU294
- 137:overdrive.cpp ****         pedalAttribute.previous_POT3 = pedalAttribute.POT3;
- 1104              		.loc 14 137 27 is_stmt 0 view .LVU295
+ 155:overdrive.cpp ****         pedalAttribute.previous_POT3 = pedalAttribute.POT3;
+ 1103              		.loc 14 155 9 is_stmt 1 view .LVU294
+ 155:overdrive.cpp ****         pedalAttribute.previous_POT3 = pedalAttribute.POT3;
+ 1104              		.loc 14 155 27 is_stmt 0 view .LVU295
  1105 0062 DFED520A 		vldr.32	s1, .L96+16
  1106 0066 67EEA00A 		vmul.f32	s1, s15, s1
  1107 006a 9FED4E0A 		vldr.32	s0, .L96+8
  1108 006e FFF7FEFF 		bl	_Z18RCfilter_setCutOffP8RCfilterff
  1109              	.LVL70:
- 138:overdrive.cpp ****     }
- 1110              		.loc 14 138 9 is_stmt 1 view .LVU296
- 138:overdrive.cpp ****     }
- 1111              		.loc 14 138 55 is_stmt 0 view .LVU297
+ 156:overdrive.cpp ****     }
+ 1110              		.loc 14 156 9 is_stmt 1 view .LVU296
+ 156:overdrive.cpp ****     }
+ 1111              		.loc 14 156 55 is_stmt 0 view .LVU297
  1112 0072 4A4B     		ldr	r3, .L96
  1113 0074 1A69     		ldr	r2, [r3, #16]	@ float
- 138:overdrive.cpp ****     }
- 1114              		.loc 14 138 38 view .LVU298
+ 156:overdrive.cpp ****     }
+ 1114              		.loc 14 156 38 view .LVU298
  1115 0076 5A62     		str	r2, [r3, #36]	@ float
  1116 0078 DDE7     		b	.L78
  1117              	.LVL71:
  1118              	.L81:
  1119              	.LBB224:
- 147:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
- 1120              		.loc 14 147 13 is_stmt 1 discriminator 3 view .LVU299
- 147:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
- 1121              		.loc 14 147 38 is_stmt 0 discriminator 3 view .LVU300
+ 165:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
+ 1120              		.loc 14 165 13 is_stmt 1 discriminator 3 view .LVU299
+ 165:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
+ 1121              		.loc 14 165 38 is_stmt 0 discriminator 3 view .LVU300
  1122 007a 484B     		ldr	r3, .L96
  1123 007c 1B78     		ldrb	r3, [r3]	@ zero_extendqisi2
- 147:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
- 1124              		.loc 14 147 21 discriminator 3 view .LVU301
+ 165:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
+ 1124              		.loc 14 165 21 discriminator 3 view .LVU301
  1125 007e 002B     		cmp	r3, #0
  1126 0080 4AD0     		beq	.L89
- 147:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
- 1127              		.loc 14 147 21 view .LVU302
+ 165:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
+ 1127              		.loc 14 165 21 view .LVU302
  1128 0082 9FED480A 		vldr.32	s0, .L96+8
  1129              	.L83:
- 147:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
- 1130              		.loc 14 147 21 discriminator 4 view .LVU303
+ 165:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
+ 1130              		.loc 14 165 21 discriminator 4 view .LVU303
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 46
+
+
  1131 0086 4A48     		ldr	r0, .L96+20
  1132 0088 FFF7FEFF 		bl	_ZN5daisy3Led3SetEf
  1133              	.LVL72:
- 148:overdrive.cpp ****             led1.Update(); 
- 1134              		.loc 14 148 13 is_stmt 1 discriminator 4 view .LVU304
- 148:overdrive.cpp ****             led1.Update(); 
- 1135              		.loc 14 148 38 is_stmt 0 discriminator 4 view .LVU305
+ 166:overdrive.cpp ****             led1.Update(); 
+ 1134              		.loc 14 166 13 is_stmt 1 discriminator 4 view .LVU304
+ 166:overdrive.cpp ****             led1.Update(); 
+ 1135              		.loc 14 166 38 is_stmt 0 discriminator 4 view .LVU305
  1136 008c 434B     		ldr	r3, .L96
  1137 008e 5B78     		ldrb	r3, [r3, #1]	@ zero_extendqisi2
- 148:overdrive.cpp ****             led1.Update(); 
- 1138              		.loc 14 148 21 discriminator 4 view .LVU306
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 46
-
-
+ 166:overdrive.cpp ****             led1.Update(); 
+ 1138              		.loc 14 166 21 discriminator 4 view .LVU306
  1139 0090 002B     		cmp	r3, #0
  1140 0092 44D0     		beq	.L90
- 148:overdrive.cpp ****             led1.Update(); 
- 1141              		.loc 14 148 21 view .LVU307
+ 166:overdrive.cpp ****             led1.Update(); 
+ 1141              		.loc 14 166 21 view .LVU307
  1142 0094 9FED430A 		vldr.32	s0, .L96+8
  1143              	.L84:
- 148:overdrive.cpp ****             led1.Update(); 
- 1144              		.loc 14 148 21 discriminator 4 view .LVU308
+ 166:overdrive.cpp ****             led1.Update(); 
+ 1144              		.loc 14 166 21 discriminator 4 view .LVU308
  1145 0098 DFF82891 		ldr	r9, .L96+40
  1146 009c 4846     		mov	r0, r9
  1147 009e FFF7FEFF 		bl	_ZN5daisy3Led3SetEf
  1148              	.LVL73:
- 149:overdrive.cpp ****             led2.Update();
- 1149              		.loc 14 149 13 is_stmt 1 discriminator 4 view .LVU309
- 149:overdrive.cpp ****             led2.Update();
- 1150              		.loc 14 149 24 is_stmt 0 discriminator 4 view .LVU310
+ 167:overdrive.cpp ****             led2.Update();
+ 1149              		.loc 14 167 13 is_stmt 1 discriminator 4 view .LVU309
+ 167:overdrive.cpp ****             led2.Update();
+ 1150              		.loc 14 167 24 is_stmt 0 discriminator 4 view .LVU310
  1151 00a2 4348     		ldr	r0, .L96+20
  1152 00a4 FFF7FEFF 		bl	_ZN5daisy3Led6UpdateEv
  1153              	.LVL74:
- 150:overdrive.cpp ****         }
- 1154              		.loc 14 150 13 is_stmt 1 discriminator 4 view .LVU311
- 150:overdrive.cpp ****         }
- 1155              		.loc 14 150 24 is_stmt 0 discriminator 4 view .LVU312
+ 168:overdrive.cpp ****         }
+ 1154              		.loc 14 168 13 is_stmt 1 discriminator 4 view .LVU311
+ 168:overdrive.cpp ****         }
+ 1155              		.loc 14 168 24 is_stmt 0 discriminator 4 view .LVU312
  1156 00a8 4846     		mov	r0, r9
  1157 00aa FFF7FEFF 		bl	_ZN5daisy3Led6UpdateEv
  1158              	.LVL75:
  1159              	.L82:
- 153:overdrive.cpp ****         {
- 1160              		.loc 14 153 10 is_stmt 1 view .LVU313
- 153:overdrive.cpp ****         {
- 1161              		.loc 14 153 30 is_stmt 0 view .LVU314
+ 171:overdrive.cpp ****         {
+ 1160              		.loc 14 171 10 is_stmt 1 view .LVU313
+ 171:overdrive.cpp ****         {
+ 1161              		.loc 14 171 30 is_stmt 0 view .LVU314
  1162 00ae 3B4B     		ldr	r3, .L96
  1163 00b0 1B78     		ldrb	r3, [r3]	@ zero_extendqisi2
- 153:overdrive.cpp ****         {
- 1164              		.loc 14 153 10 view .LVU315
+ 171:overdrive.cpp ****         {
+ 1164              		.loc 14 171 10 view .LVU315
  1165 00b2 002B     		cmp	r3, #0
  1166 00b4 36D0     		beq	.L94
- 161:overdrive.cpp ****         {
- 1167              		.loc 14 161 14 is_stmt 1 view .LVU316
- 161:overdrive.cpp ****         {
- 1168              		.loc 14 161 34 is_stmt 0 view .LVU317
+ 179:overdrive.cpp ****         {
+ 1167              		.loc 14 179 14 is_stmt 1 view .LVU316
+ 179:overdrive.cpp ****         {
+ 1168              		.loc 14 179 34 is_stmt 0 view .LVU317
  1169 00b6 394B     		ldr	r3, .L96
  1170 00b8 5B78     		ldrb	r3, [r3, #1]	@ zero_extendqisi2
- 161:overdrive.cpp ****         {
- 1171              		.loc 14 161 14 view .LVU318
+ 179:overdrive.cpp ****         {
+ 1171              		.loc 14 179 14 view .LVU318
  1172 00ba 002B     		cmp	r3, #0
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 47
+
+
  1173 00bc 55D0     		beq	.L95
- 180:overdrive.cpp ****         }
- 1174              		.loc 14 180 13 is_stmt 1 view .LVU319
- 180:overdrive.cpp ****         }
- 1175              		.loc 14 180 18 is_stmt 0 view .LVU320
+ 191:overdrive.cpp ****         }
+ 1174              		.loc 14 191 13 is_stmt 1 view .LVU319
+ 191:overdrive.cpp ****         }
+ 1175              		.loc 14 191 18 is_stmt 0 view .LVU320
  1176 00be D8F80030 		ldr	r3, [r8]
- 180:overdrive.cpp ****         }
- 1177              		.loc 14 180 21 view .LVU321
+ 191:overdrive.cpp ****         }
+ 1177              		.loc 14 191 21 view .LVU321
  1178 00c2 2B44     		add	r3, r3, r5
- 180:overdrive.cpp ****         }
- 1179              		.loc 14 180 32 view .LVU322
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 47
-
-
+ 191:overdrive.cpp ****         }
+ 1179              		.loc 14 191 32 view .LVU322
  1180 00c4 3B4A     		ldr	r2, .L96+24
  1181 00c6 1268     		ldr	r2, [r2]	@ float
- 180:overdrive.cpp ****         }
- 1182              		.loc 14 180 23 view .LVU323
+ 191:overdrive.cpp ****         }
+ 1182              		.loc 14 191 23 view .LVU323
  1183 00c8 1A60     		str	r2, [r3]	@ float
  1184              	.L86:
- 141:overdrive.cpp ****     {   
- 1185              		.loc 14 141 5 is_stmt 1 discriminator 2 view .LVU324
+ 159:overdrive.cpp ****     {   
+ 1185              		.loc 14 159 5 is_stmt 1 discriminator 2 view .LVU324
  1186 00ca 0134     		adds	r4, r4, #1
  1187              	.LVL76:
  1188              	.L88:
- 141:overdrive.cpp ****     {   
- 1189              		.loc 14 141 25 discriminator 1 view .LVU325
+ 159:overdrive.cpp ****     {   
+ 1189              		.loc 14 159 25 discriminator 1 view .LVU325
  1190 00cc B442     		cmp	r4, r6
  1191 00ce 63D2     		bcs	.L76
- 143:overdrive.cpp **** 
- 1192              		.loc 14 143 9 view .LVU326
- 143:overdrive.cpp **** 
- 1193              		.loc 14 143 25 is_stmt 0 view .LVU327
+ 161:overdrive.cpp **** 
+ 1192              		.loc 14 161 9 view .LVU326
+ 161:overdrive.cpp **** 
+ 1193              		.loc 14 161 25 is_stmt 0 view .LVU327
  1194 00d0 3B68     		ldr	r3, [r7]
- 143:overdrive.cpp **** 
- 1195              		.loc 14 143 28 view .LVU328
+ 161:overdrive.cpp **** 
+ 1195              		.loc 14 161 28 view .LVU328
  1196 00d2 A500     		lsls	r5, r4, #2
  1197 00d4 03EB8403 		add	r3, r3, r4, lsl #2
  1198 00d8 93ED007A 		vldr.32	s14, [r3]
- 143:overdrive.cpp **** 
- 1199              		.loc 14 143 48 view .LVU329
+ 161:overdrive.cpp **** 
+ 1199              		.loc 14 161 48 view .LVU329
  1200 00dc 2F4B     		ldr	r3, .L96
  1201 00de D3ED027A 		vldr.32	s15, [r3, #8]
- 143:overdrive.cpp **** 
- 1202              		.loc 14 143 52 view .LVU330
+ 161:overdrive.cpp **** 
+ 1202              		.loc 14 161 52 view .LVU330
  1203 00e2 77EEA77A 		vadd.f32	s15, s15, s15
- 143:overdrive.cpp **** 
- 1204              		.loc 14 143 30 view .LVU331
+ 161:overdrive.cpp **** 
+ 1204              		.loc 14 161 30 view .LVU331
  1205 00e6 67EE277A 		vmul.f32	s15, s14, s15
- 143:overdrive.cpp **** 
- 1206              		.loc 14 143 19 view .LVU332
+ 161:overdrive.cpp **** 
+ 1206              		.loc 14 161 19 view .LVU332
  1207 00ea 324B     		ldr	r3, .L96+24
  1208 00ec C3ED007A 		vstr.32	s15, [r3]
- 145:overdrive.cpp ****         {    
- 1209              		.loc 14 145 9 is_stmt 1 view .LVU333
+ 163:overdrive.cpp ****         {    
+ 1209              		.loc 14 163 9 is_stmt 1 view .LVU333
  1210              	.LVL77:
  1211              	.LBB225:
  1212              	.LBI225:
  1213              		.loc 4 70 17 view .LVU334
  1214              	.LBB226:
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 48
+
+
  1215              		.loc 4 70 38 view .LVU335
  1216              		.loc 4 70 45 is_stmt 0 view .LVU336
  1217 00f0 314B     		ldr	r3, .L96+28
@@ -2818,13 +2832,10 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1223 00fa 93F89231 		ldrb	r3, [r3, #402]	@ zero_extendqisi2
  1224              	.LVL78:
  1225              		.loc 4 70 56 view .LVU339
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 48
-
-
  1226              	.LBE226:
  1227              	.LBE225:
- 145:overdrive.cpp ****         {    
- 1228              		.loc 14 145 63 view .LVU340
+ 163:overdrive.cpp ****         {    
+ 1228              		.loc 14 163 63 view .LVU340
  1229 00fe 7F2B     		cmp	r3, #127
  1230 0100 BBD0     		beq	.L81
  1231              	.L80:
@@ -2847,129 +2858,129 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1248              		.loc 4 70 56 view .LVU346
  1249              	.LBE228:
  1250              	.LBE227:
- 145:overdrive.cpp ****         {    
- 1251              		.loc 14 145 63 view .LVU347
+ 163:overdrive.cpp ****         {    
+ 1251              		.loc 14 163 63 view .LVU347
  1252 0112 7F2B     		cmp	r3, #127
  1253 0114 CBD1     		bne	.L82
  1254 0116 B0E7     		b	.L81
  1255              	.L89:
- 147:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
- 1256              		.loc 14 147 21 view .LVU348
+ 165:overdrive.cpp ****             led2.Set(!pedalAttribute.FS2_bypass ? 1.0f : 0.0f);
+ 1256              		.loc 14 165 21 view .LVU348
  1257 0118 B7EE000A 		vmov.f32	s0, #1.0e+0
  1258 011c B3E7     		b	.L83
  1259              	.L90:
- 148:overdrive.cpp ****             led1.Update(); 
- 1260              		.loc 14 148 21 view .LVU349
+ 166:overdrive.cpp ****             led1.Update(); 
+ 1260              		.loc 14 166 21 view .LVU349
  1261 011e B7EE000A 		vmov.f32	s0, #1.0e+0
  1262 0122 B9E7     		b	.L84
  1263              	.L94:
- 155:overdrive.cpp ****             buffer.clipped = softClip1(buffer.lowpass_filtered * pedalAttribute.POT1 * 100);
- 1264              		.loc 14 155 13 is_stmt 1 view .LVU350
- 155:overdrive.cpp ****             buffer.clipped = softClip1(buffer.lowpass_filtered * pedalAttribute.POT1 * 100);
- 1265              		.loc 14 155 57 is_stmt 0 view .LVU351
+ 173:overdrive.cpp ****             buffer.clipped = softClip1(buffer.lowpass_filtered * pedalAttribute.POT1 * 100);
+ 1264              		.loc 14 173 13 is_stmt 1 view .LVU350
+ 173:overdrive.cpp ****             buffer.clipped = softClip1(buffer.lowpass_filtered * pedalAttribute.POT1 * 100);
+ 1265              		.loc 14 173 57 is_stmt 0 view .LVU351
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 49
+
+
  1266 0124 DFF88C90 		ldr	r9, .L96+24
  1267 0128 DFF874A0 		ldr	r10, .L96+4
  1268 012c 99ED000A 		vldr.32	s0, [r9]
  1269 0130 5046     		mov	r0, r10
  1270 0132 FFF7FEFF 		bl	_Z18LP_RCfilter_UpdateP8RCfilterf
  1271              	.LVL81:
- 155:overdrive.cpp ****             buffer.clipped = softClip1(buffer.lowpass_filtered * pedalAttribute.POT1 * 100);
- 1272              		.loc 14 155 37 view .LVU352
+ 173:overdrive.cpp ****             buffer.clipped = softClip1(buffer.lowpass_filtered * pedalAttribute.POT1 * 100);
+ 1272              		.loc 14 173 37 view .LVU352
  1273 0136 89ED030A 		vstr.32	s0, [r9, #12]
- 156:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
- 1274              		.loc 14 156 13 is_stmt 1 view .LVU353
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 49
-
-
- 156:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
- 1275              		.loc 14 156 81 is_stmt 0 view .LVU354
+ 174:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
+ 1274              		.loc 14 174 13 is_stmt 1 view .LVU353
+ 174:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
+ 1275              		.loc 14 174 81 is_stmt 0 view .LVU354
  1276 013a 184B     		ldr	r3, .L96
  1277 013c D3ED027A 		vldr.32	s15, [r3, #8]
- 156:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
- 1278              		.loc 14 156 64 view .LVU355
+ 174:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
+ 1278              		.loc 14 174 64 view .LVU355
  1279 0140 20EE270A 		vmul.f32	s0, s0, s15
- 156:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
- 1280              		.loc 14 156 39 view .LVU356
+ 174:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
+ 1280              		.loc 14 174 39 view .LVU356
  1281 0144 DFED1D7A 		vldr.32	s15, .L96+32
  1282 0148 20EE270A 		vmul.f32	s0, s0, s15
  1283 014c FFF7FEFF 		bl	_Z9softClip1f
  1284              	.LVL82:
- 156:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
- 1285              		.loc 14 156 28 view .LVU357
+ 174:overdrive.cpp ****             buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
+ 1285              		.loc 14 174 28 view .LVU357
  1286 0150 89ED020A 		vstr.32	s0, [r9, #8]
- 157:overdrive.cpp **** 
- 1287              		.loc 14 157 13 is_stmt 1 view .LVU358
- 157:overdrive.cpp **** 
- 1288              		.loc 14 157 58 is_stmt 0 view .LVU359
+ 175:overdrive.cpp **** 
+ 1287              		.loc 14 175 13 is_stmt 1 view .LVU358
+ 175:overdrive.cpp **** 
+ 1288              		.loc 14 175 58 is_stmt 0 view .LVU359
  1289 0154 5046     		mov	r0, r10
  1290 0156 FFF7FEFF 		bl	_Z18HP_RCfilter_UpdateP8RCfilterf
  1291              	.LVL83:
- 157:overdrive.cpp **** 
- 1292              		.loc 14 157 38 view .LVU360
+ 175:overdrive.cpp **** 
+ 1292              		.loc 14 175 38 view .LVU360
  1293 015a 89ED040A 		vstr.32	s0, [r9, #16]
- 159:overdrive.cpp ****         }
- 1294              		.loc 14 159 13 is_stmt 1 view .LVU361
- 159:overdrive.cpp ****         }
- 1295              		.loc 14 159 18 is_stmt 0 view .LVU362
+ 177:overdrive.cpp ****         }
+ 1294              		.loc 14 177 13 is_stmt 1 view .LVU361
+ 177:overdrive.cpp ****         }
+ 1295              		.loc 14 177 18 is_stmt 0 view .LVU362
  1296 015e D8F80030 		ldr	r3, [r8]
- 159:overdrive.cpp ****         }
- 1297              		.loc 14 159 21 view .LVU363
+ 177:overdrive.cpp ****         }
+ 1297              		.loc 14 177 21 view .LVU363
  1298 0162 2B44     		add	r3, r3, r5
- 159:overdrive.cpp ****         }
- 1299              		.loc 14 159 23 view .LVU364
+ 177:overdrive.cpp ****         }
+ 1299              		.loc 14 177 23 view .LVU364
  1300 0164 83ED000A 		vstr.32	s0, [r3]
  1301 0168 AFE7     		b	.L86
  1302              	.L95:
- 170:overdrive.cpp **** 
- 1303              		.loc 14 170 13 is_stmt 1 view .LVU365
- 170:overdrive.cpp **** 
- 1304              		.loc 14 170 58 is_stmt 0 view .LVU366
+ 181:overdrive.cpp **** 
+ 1303              		.loc 14 181 13 is_stmt 1 view .LVU365
+ 181:overdrive.cpp **** 
+ 1304              		.loc 14 181 58 is_stmt 0 view .LVU366
  1305 016a DFF84890 		ldr	r9, .L96+24
  1306 016e 99ED000A 		vldr.32	s0, [r9]
  1307 0172 0B48     		ldr	r0, .L96+4
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 50
+
+
  1308 0174 FFF7FEFF 		bl	_Z18HP_RCfilter_UpdateP8RCfilterf
  1309              	.LVL84:
- 170:overdrive.cpp **** 
- 1310              		.loc 14 170 38 view .LVU367
+ 181:overdrive.cpp **** 
+ 1310              		.loc 14 181 38 view .LVU367
  1311 0178 89ED040A 		vstr.32	s0, [r9, #16]
- 172:overdrive.cpp **** 
- 1312              		.loc 14 172 13 is_stmt 1 view .LVU368
- 172:overdrive.cpp **** 
- 1313              		.loc 14 172 43 is_stmt 0 view .LVU369
+ 183:overdrive.cpp **** 
+ 1312              		.loc 14 183 13 is_stmt 1 view .LVU368
+ 183:overdrive.cpp **** 
+ 1313              		.loc 14 183 43 is_stmt 0 view .LVU369
  1314 017c 074B     		ldr	r3, .L96
  1315 017e D3ED050A 		vldr.32	s1, [r3, #20]
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 50
-
-
  1316 0182 0F48     		ldr	r0, .L96+36
  1317 0184 FFF7FEFF 		bl	_Z13AA_FIR_updateP9FIRfilterff
  1318              	.LVL85:
- 172:overdrive.cpp **** 
- 1319              		.loc 14 172 28 view .LVU370
+ 183:overdrive.cpp **** 
+ 1319              		.loc 14 183 28 view .LVU370
  1320 0188 89ED020A 		vstr.32	s0, [r9, #8]
- 176:overdrive.cpp ****         }
- 1321              		.loc 14 176 13 is_stmt 1 view .LVU371
- 176:overdrive.cpp ****         }
- 1322              		.loc 14 176 18 is_stmt 0 view .LVU372
+ 187:overdrive.cpp ****         }
+ 1321              		.loc 14 187 13 is_stmt 1 view .LVU371
+ 187:overdrive.cpp ****         }
+ 1322              		.loc 14 187 18 is_stmt 0 view .LVU372
  1323 018c D8F80030 		ldr	r3, [r8]
- 176:overdrive.cpp ****         }
- 1324              		.loc 14 176 21 view .LVU373
+ 187:overdrive.cpp ****         }
+ 1324              		.loc 14 187 21 view .LVU373
  1325 0190 2B44     		add	r3, r3, r5
- 176:overdrive.cpp ****         }
- 1326              		.loc 14 176 23 view .LVU374
+ 187:overdrive.cpp ****         }
+ 1326              		.loc 14 187 23 view .LVU374
  1327 0192 83ED000A 		vstr.32	s0, [r3]
  1328 0196 98E7     		b	.L86
  1329              	.L76:
- 176:overdrive.cpp ****         }
- 1330              		.loc 14 176 23 view .LVU375
+ 187:overdrive.cpp ****         }
+ 1330              		.loc 14 187 23 view .LVU375
  1331              	.LBE224:
- 183:overdrive.cpp **** 
- 1332              		.loc 14 183 1 view .LVU376
+ 194:overdrive.cpp **** 
+ 1332              		.loc 14 194 1 view .LVU376
  1333 0198 BDE8F087 		pop	{r4, r5, r6, r7, r8, r9, r10, pc}
  1334              	.LVL86:
  1335              	.L97:
- 183:overdrive.cpp **** 
- 1336              		.loc 14 183 1 view .LVU377
+ 194:overdrive.cpp **** 
+ 1336              		.loc 14 194 1 view .LVU377
  1337              		.align	2
  1338              	.L96:
  1339 019c 00000000 		.word	.LANCHOR1
@@ -2987,6 +2998,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1351              	.LFE4699:
  1353              		.section	.text._Z8hardClipf,"ax",%progbits
  1354              		.align	1
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 51
+
+
  1355              		.global	_Z8hardClipf
  1356              		.syntax unified
  1357              		.thumb
@@ -2995,20 +3009,17 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1361              	_Z8hardClipf:
  1362              	.LVL87:
  1363              	.LFB4708:
- 317:overdrive.cpp **** 
- 318:overdrive.cpp **** float hardClip(float in)
- 319:overdrive.cpp **** {
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 51
-
-
- 1364              		.loc 14 319 1 is_stmt 1 view -0
+ 328:overdrive.cpp **** 
+ 329:overdrive.cpp **** float hardClip(float in)
+ 330:overdrive.cpp **** {
+ 1364              		.loc 14 330 1 is_stmt 1 view -0
  1365              		.cfi_startproc
  1366              		@ args = 0, pretend = 0, frame = 0
  1367              		@ frame_needed = 0, uses_anonymous_args = 0
  1368              		@ link register save eliminated.
- 320:overdrive.cpp ****     in = in > 1.f ? 1.f : in;
- 1369              		.loc 14 320 5 view .LVU379
- 1370              		.loc 14 320 19 is_stmt 0 view .LVU380
+ 331:overdrive.cpp ****     in = in > 1.f ? 1.f : in;
+ 1369              		.loc 14 331 5 view .LVU379
+ 1370              		.loc 14 331 19 is_stmt 0 view .LVU380
  1371 0000 F7EE007A 		vmov.f32	s15, #1.0e+0
  1372 0004 B4EEE70A 		vcmpe.f32	s0, s15
  1373 0008 F1EE10FA 		vmrs	APSR_nzcv, FPSCR
@@ -3016,29 +3027,29 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1375 000e B0EE670A 		vmov.f32	s0, s15
  1376              	.LVL88:
  1377              	.L99:
- 321:overdrive.cpp ****     in = in < -1.f ? -1.f : in;
- 1378              		.loc 14 321 5 is_stmt 1 discriminator 4 view .LVU381
- 1379              		.loc 14 321 20 is_stmt 0 discriminator 4 view .LVU382
+ 332:overdrive.cpp ****     in = in < -1.f ? -1.f : in;
+ 1378              		.loc 14 332 5 is_stmt 1 discriminator 4 view .LVU381
+ 1379              		.loc 14 332 20 is_stmt 0 discriminator 4 view .LVU382
  1380 0012 FFEE007A 		vmov.f32	s15, #-1.0e+0
  1381 0016 B4EEE70A 		vcmpe.f32	s0, s15
  1382 001a F1EE10FA 		vmrs	APSR_nzcv, FPSCR
  1383 001e 00D4     		bmi	.L107
  1384              	.LVL89:
  1385              	.L98:
- 322:overdrive.cpp ****     return in;
- 323:overdrive.cpp **** }
- 1386              		.loc 14 323 1 view .LVU383
+ 333:overdrive.cpp ****     return in;
+ 334:overdrive.cpp **** }
+ 1386              		.loc 14 334 1 view .LVU383
  1387 0020 7047     		bx	lr
  1388              	.LVL90:
  1389              	.L107:
- 321:overdrive.cpp ****     in = in < -1.f ? -1.f : in;
- 1390              		.loc 14 321 20 view .LVU384
+ 332:overdrive.cpp ****     in = in < -1.f ? -1.f : in;
+ 1390              		.loc 14 332 20 view .LVU384
  1391 0022 B0EE670A 		vmov.f32	s0, s15
  1392              	.LVL91:
- 322:overdrive.cpp ****     return in;
- 1393              		.loc 14 322 5 is_stmt 1 view .LVU385
- 322:overdrive.cpp ****     return in;
- 1394              		.loc 14 322 12 is_stmt 0 view .LVU386
+ 333:overdrive.cpp ****     return in;
+ 1393              		.loc 14 333 5 is_stmt 1 view .LVU385
+ 333:overdrive.cpp ****     return in;
+ 1394              		.loc 14 333 12 is_stmt 0 view .LVU386
  1395 0026 FBE7     		b	.L98
  1396              		.cfi_endproc
  1397              	.LFE4708:
@@ -3047,20 +3058,20 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1401              		.global	main
  1402              		.syntax unified
  1403              		.thumb
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 52
+
+
  1404              		.thumb_func
  1405              		.fpu fpv5-d16
  1407              	main:
  1408              	.LFB4709:
- 324:overdrive.cpp **** 
- 325:overdrive.cpp **** int main(void)
- 326:overdrive.cpp **** {
- 1409              		.loc 14 326 1 is_stmt 1 view -0
+ 335:overdrive.cpp **** 
+ 336:overdrive.cpp **** int main(void)
+ 337:overdrive.cpp **** {
+ 1409              		.loc 14 337 1 is_stmt 1 view -0
  1410              		.cfi_startproc
  1411              		@ args = 0, pretend = 0, frame = 8
  1412              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 52
-
-
  1413 0000 70B5     		push	{r4, r5, r6, lr}
  1414              		.cfi_def_cfa_offset 16
  1415              		.cfi_offset 4, -16
@@ -3073,31 +3084,31 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1422              		.cfi_offset 81, -20
  1423 0006 82B0     		sub	sp, sp, #8
  1424              		.cfi_def_cfa_offset 32
- 327:overdrive.cpp ****     hw.Init();
- 1425              		.loc 14 327 5 view .LVU388
- 1426              		.loc 14 327 12 is_stmt 0 view .LVU389
+ 338:overdrive.cpp ****     hw.Init();
+ 1425              		.loc 14 338 5 view .LVU388
+ 1426              		.loc 14 338 12 is_stmt 0 view .LVU389
  1427 0008 234C     		ldr	r4, .L111
  1428 000a 0021     		movs	r1, #0
  1429 000c 2046     		mov	r0, r4
  1430 000e FFF7FEFF 		bl	_ZN5daisy10DaisyPetal4InitEb
  1431              	.LVL92:
- 328:overdrive.cpp ****     hw.SetAudioBlockSize(4);
- 1432              		.loc 14 328 5 is_stmt 1 view .LVU390
- 1433              		.loc 14 328 25 is_stmt 0 view .LVU391
+ 339:overdrive.cpp ****     hw.SetAudioBlockSize(4);
+ 1432              		.loc 14 339 5 is_stmt 1 view .LVU390
+ 1433              		.loc 14 339 25 is_stmt 0 view .LVU391
  1434 0012 0421     		movs	r1, #4
  1435 0014 2046     		mov	r0, r4
  1436 0016 FFF7FEFF 		bl	_ZN5daisy10DaisyPetal17SetAudioBlockSizeEj
  1437              	.LVL93:
- 329:overdrive.cpp ****     float sample_rate = hw.AudioSampleRate();
- 1438              		.loc 14 329 5 is_stmt 1 view .LVU392
- 1439              		.loc 14 329 43 is_stmt 0 view .LVU393
+ 340:overdrive.cpp ****     float sample_rate = hw.AudioSampleRate();
+ 1438              		.loc 14 340 5 is_stmt 1 view .LVU392
+ 1439              		.loc 14 340 43 is_stmt 0 view .LVU393
  1440 001a 2046     		mov	r0, r4
  1441 001c FFF7FEFF 		bl	_ZN5daisy10DaisyPetal15AudioSampleRateEv
  1442              	.LVL94:
- 330:overdrive.cpp **** 
- 331:overdrive.cpp ****     led1.Init(hw.seed.GetPin(Terrarium::LED_1),false);
- 1443              		.loc 14 331 5 is_stmt 1 view .LVU394
- 1444              		.loc 14 331 14 is_stmt 0 view .LVU395
+ 341:overdrive.cpp **** 
+ 342:overdrive.cpp ****     led1.Init(hw.seed.GetPin(Terrarium::LED_1),false);
+ 1443              		.loc 14 342 5 is_stmt 1 view .LVU394
+ 1444              		.loc 14 342 14 is_stmt 0 view .LVU395
  1445 0020 1620     		movs	r0, #22
  1446 0022 FFF7FEFF 		bl	_ZN5daisy9DaisySeed6GetPinEh
  1447              	.LVL95:
@@ -3107,92 +3118,92 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1451 0030 B0EE480A 		vmov.f32	s0, s16
  1452 0034 0022     		movs	r2, #0
  1453 0036 0099     		ldr	r1, [sp]
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 53
+
+
  1454 0038 3046     		mov	r0, r6
  1455 003a FFF7FEFF 		bl	_ZN5daisy3Led4InitE12dsy_gpio_pinbf
  1456              	.LVL96:
- 332:overdrive.cpp ****     led2.Init(hw.seed.GetPin(Terrarium::LED_2),false);
- 1457              		.loc 14 332 5 is_stmt 1 view .LVU396
- 1458              		.loc 14 332 14 is_stmt 0 view .LVU397
+ 343:overdrive.cpp ****     led2.Init(hw.seed.GetPin(Terrarium::LED_2),false);
+ 1457              		.loc 14 343 5 is_stmt 1 view .LVU396
+ 1458              		.loc 14 343 14 is_stmt 0 view .LVU397
  1459 003e 1720     		movs	r0, #23
  1460 0040 FFF7FEFF 		bl	_ZN5daisy9DaisySeed6GetPinEh
  1461              	.LVL97:
  1462 0044 ADF80400 		strh	r0, [sp, #4]	@ movhi
  1463 0048 164D     		ldr	r5, .L111+12
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 53
-
-
  1464 004a B0EE480A 		vmov.f32	s0, s16
  1465 004e 0022     		movs	r2, #0
  1466 0050 0199     		ldr	r1, [sp, #4]
  1467 0052 2846     		mov	r0, r5
  1468 0054 FFF7FEFF 		bl	_ZN5daisy3Led4InitE12dsy_gpio_pinbf
  1469              	.LVL98:
- 333:overdrive.cpp ****     led1.Update();
- 1470              		.loc 14 333 5 is_stmt 1 view .LVU398
- 1471              		.loc 14 333 16 is_stmt 0 view .LVU399
+ 344:overdrive.cpp ****     led1.Update();
+ 1470              		.loc 14 344 5 is_stmt 1 view .LVU398
+ 1471              		.loc 14 344 16 is_stmt 0 view .LVU399
  1472 0058 3046     		mov	r0, r6
  1473 005a FFF7FEFF 		bl	_ZN5daisy3Led6UpdateEv
  1474              	.LVL99:
- 334:overdrive.cpp ****     led2.Update();
- 1475              		.loc 14 334 5 is_stmt 1 view .LVU400
- 1476              		.loc 14 334 16 is_stmt 0 view .LVU401
+ 345:overdrive.cpp ****     led2.Update();
+ 1475              		.loc 14 345 5 is_stmt 1 view .LVU400
+ 1476              		.loc 14 345 16 is_stmt 0 view .LVU401
  1477 005e 2846     		mov	r0, r5
  1478 0060 FFF7FEFF 		bl	_ZN5daisy3Led6UpdateEv
  1479              	.LVL100:
- 335:overdrive.cpp ****     
- 336:overdrive.cpp ****     AA_FIR_init(&fir);
- 1480              		.loc 14 336 5 is_stmt 1 view .LVU402
- 1481              		.loc 14 336 16 is_stmt 0 view .LVU403
+ 346:overdrive.cpp ****     
+ 347:overdrive.cpp ****     AA_FIR_init(&fir);
+ 1480              		.loc 14 347 5 is_stmt 1 view .LVU402
+ 1481              		.loc 14 347 16 is_stmt 0 view .LVU403
  1482 0064 1048     		ldr	r0, .L111+16
  1483 0066 FFF7FEFF 		bl	_Z11AA_FIR_initP9FIRfilter
  1484              	.LVL101:
- 337:overdrive.cpp ****     RCfilter_init(&filter, 1000.0f, 1000.0f);
- 1485              		.loc 14 337 5 is_stmt 1 view .LVU404
- 1486              		.loc 14 337 18 is_stmt 0 view .LVU405
+ 348:overdrive.cpp ****     RCfilter_init(&filter, 1000.0f, 1000.0f);
+ 1485              		.loc 14 348 5 is_stmt 1 view .LVU404
+ 1486              		.loc 14 348 18 is_stmt 0 view .LVU405
  1487 006a F0EE480A 		vmov.f32	s1, s16
  1488 006e B0EE480A 		vmov.f32	s0, s16
  1489 0072 0E48     		ldr	r0, .L111+20
  1490 0074 FFF7FEFF 		bl	_Z13RCfilter_initP8RCfilterff
  1491              	.LVL102:
- 338:overdrive.cpp **** 
- 339:overdrive.cpp ****     hw.StartAdc();
- 1492              		.loc 14 339 5 is_stmt 1 view .LVU406
- 1493              		.loc 14 339 16 is_stmt 0 view .LVU407
+ 349:overdrive.cpp **** 
+ 350:overdrive.cpp ****     hw.StartAdc();
+ 1492              		.loc 14 350 5 is_stmt 1 view .LVU406
+ 1493              		.loc 14 350 16 is_stmt 0 view .LVU407
  1494 0078 2046     		mov	r0, r4
  1495 007a FFF7FEFF 		bl	_ZN5daisy10DaisyPetal8StartAdcEv
  1496              	.LVL103:
- 340:overdrive.cpp ****     hw.StartAudio(AudioCallback);
- 1497              		.loc 14 340 5 is_stmt 1 view .LVU408
- 1498              		.loc 14 340 18 is_stmt 0 view .LVU409
+ 351:overdrive.cpp ****     hw.StartAudio(AudioCallback);
+ 1497              		.loc 14 351 5 is_stmt 1 view .LVU408
+ 1498              		.loc 14 351 18 is_stmt 0 view .LVU409
  1499 007e 0C49     		ldr	r1, .L111+24
  1500 0080 2046     		mov	r0, r4
  1501 0082 FFF7FEFF 		bl	_ZN5daisy10DaisyPetal10StartAudioEPFvPKPKfPPfjE
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 54
+
+
  1502              	.LVL104:
  1503              	.L109:
- 341:overdrive.cpp **** 
- 342:overdrive.cpp **** 
- 343:overdrive.cpp ****     while(1)
- 1504              		.loc 14 343 5 is_stmt 1 discriminator 1 view .LVU410
- 344:overdrive.cpp ****     {
- 345:overdrive.cpp ****         hw.DelayMs(6);
- 1505              		.loc 14 345 9 discriminator 1 view .LVU411
- 1506              		.loc 14 345 19 is_stmt 0 discriminator 1 view .LVU412
+ 352:overdrive.cpp **** 
+ 353:overdrive.cpp **** 
+ 354:overdrive.cpp ****     while(1)
+ 1504              		.loc 14 354 5 is_stmt 1 discriminator 1 view .LVU410
+ 355:overdrive.cpp ****     {
+ 356:overdrive.cpp ****         hw.DelayMs(6);
+ 1505              		.loc 14 356 9 discriminator 1 view .LVU411
+ 1506              		.loc 14 356 19 is_stmt 0 discriminator 1 view .LVU412
  1507 0086 044C     		ldr	r4, .L111
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 54
-
-
  1508 0088 0621     		movs	r1, #6
  1509 008a 2046     		mov	r0, r4
  1510 008c FFF7FEFF 		bl	_ZN5daisy10DaisyPetal7DelayMsEj
  1511              	.LVL105:
- 346:overdrive.cpp ****         hw.ClearLeds();
- 1512              		.loc 14 346 9 is_stmt 1 discriminator 1 view .LVU413
- 1513              		.loc 14 346 21 is_stmt 0 discriminator 1 view .LVU414
+ 357:overdrive.cpp ****         hw.ClearLeds();
+ 1512              		.loc 14 357 9 is_stmt 1 discriminator 1 view .LVU413
+ 1513              		.loc 14 357 21 is_stmt 0 discriminator 1 view .LVU414
  1514 0090 2046     		mov	r0, r4
  1515 0092 FFF7FEFF 		bl	_ZN5daisy10DaisyPetal9ClearLedsEv
  1516              	.LVL106:
- 343:overdrive.cpp ****     {
- 1517              		.loc 14 343 5 is_stmt 1 discriminator 1 view .LVU415
+ 354:overdrive.cpp ****     {
+ 1517              		.loc 14 354 5 is_stmt 1 discriminator 1 view .LVU415
  1518 0096 F6E7     		b	.L109
  1519              	.L112:
  1520              		.align	2
@@ -3214,9 +3225,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1537              		.fpu fpv5-d16
  1539              	_GLOBAL__sub_I_ANTI_ALIASING_LP_FILTER:
  1540              	.LFB5272:
- 347:overdrive.cpp ****     }
- 348:overdrive.cpp **** }
- 1541              		.loc 14 348 1 view -0
+ 358:overdrive.cpp ****     }
+ 359:overdrive.cpp **** }
+ 1541              		.loc 14 359 1 view -0
  1542              		.cfi_startproc
  1543              		@ args = 0, pretend = 0, frame = 0
  1544              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -3227,9 +3238,12 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1549              		.cfi_offset 5, -8
  1550              		.cfi_offset 14, -4
  1551              	.LVL107:
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 55
+
+
  1552              	.LBB286:
  1553              	.LBI286:
- 1554              		.loc 14 348 1 view .LVU417
+ 1554              		.loc 14 359 1 view .LVU417
  1555              	.LBB287:
  1556              	.LBB288:
  1557              	.LBI288:
@@ -3238,9 +3252,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1559              	.LBB289:
  1560 0002 264A     		ldr	r2, .L128
  1561 0004 0123     		movs	r3, #1
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 55
-
-
  1562 0006 1370     		strb	r3, [r2]
  1563 0008 5370     		strb	r3, [r2, #1]
  1564 000a 0023     		movs	r3, #0
@@ -3287,6 +3298,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   18:../../libDaisy/src/per/qspi.h **** 
   19:../../libDaisy/src/per/qspi.h **** namespace daisy
   20:../../libDaisy/src/per/qspi.h **** {
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 56
+
+
   21:../../libDaisy/src/per/qspi.h **** /** @addtogroup serial
   22:../../libDaisy/src/per/qspi.h **** @{
   23:../../libDaisy/src/per/qspi.h **** */
@@ -3298,9 +3312,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   29:../../libDaisy/src/per/qspi.h **** */
   30:../../libDaisy/src/per/qspi.h **** class QSPIHandle
   31:../../libDaisy/src/per/qspi.h **** {
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 56
-
-
   32:../../libDaisy/src/per/qspi.h ****   public:
   33:../../libDaisy/src/per/qspi.h ****     enum Result
   34:../../libDaisy/src/per/qspi.h ****     {
@@ -3347,6 +3358,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   75:../../libDaisy/src/per/qspi.h ****         {
   76:../../libDaisy/src/per/qspi.h ****             MEMORY_MAPPED,    /**< & */
   77:../../libDaisy/src/per/qspi.h ****             INDIRECT_POLLING, /**< & */
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 57
+
+
   78:../../libDaisy/src/per/qspi.h ****             MODE_LAST,
   79:../../libDaisy/src/per/qspi.h ****         };
   80:../../libDaisy/src/per/qspi.h **** 
@@ -3358,9 +3372,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   86:../../libDaisy/src/per/qspi.h ****             dsy_gpio_pin io2; /**< & */
   87:../../libDaisy/src/per/qspi.h ****             dsy_gpio_pin io3; /**< & */
   88:../../libDaisy/src/per/qspi.h ****             dsy_gpio_pin clk; /**< & */
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 57
-
-
   89:../../libDaisy/src/per/qspi.h ****             dsy_gpio_pin ncs; /**< & */
   90:../../libDaisy/src/per/qspi.h ****         } pin_config;
   91:../../libDaisy/src/per/qspi.h **** 
@@ -3407,6 +3418,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  132:../../libDaisy/src/per/qspi.h ****     Result Write(uint32_t address, uint32_t size, uint8_t* buffer);
  133:../../libDaisy/src/per/qspi.h **** 
  134:../../libDaisy/src/per/qspi.h ****     /** 
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 58
+
+
  135:../../libDaisy/src/per/qspi.h ****         Erases the area specified on the chip.
  136:../../libDaisy/src/per/qspi.h ****         Erasures will happen by 4K, 32K or 64K increments.
  137:../../libDaisy/src/per/qspi.h ****         Smallest erase possible is 4kB at a time. (on IS25LP*)
@@ -3418,9 +3432,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  143:../../libDaisy/src/per/qspi.h **** 
  144:../../libDaisy/src/per/qspi.h ****     /**  
  145:../../libDaisy/src/per/qspi.h ****          Erases a single sector of the chip.  
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 58
-
-
  146:../../libDaisy/src/per/qspi.h ****         TODO: Document the size of this function. 
  147:../../libDaisy/src/per/qspi.h ****         \param address Address of sector to erase
  148:../../libDaisy/src/per/qspi.h ****         \return Result::OK or Result::ERR
@@ -3467,6 +3478,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1604              		.loc 11 95 35 view .LVU427
  1605              	.LBE300:
  1606              	.LBE299:
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 59
+
+
  1607              	.LBE298:
  1608              	.LBB301:
  1609              	.LBI301:
@@ -3478,9 +3492,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1613              	.LBB302:
  1614              	.LBI302:
  1615              		.file 17 "../../libDaisy/src/per/dac.h"
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 59
-
-
    1:../../libDaisy/src/per/dac.h **** #pragma once
    2:../../libDaisy/src/per/dac.h **** #ifndef DSY_DAC_H
    3:../../libDaisy/src/per/dac.h **** #define DSY_DAC_H
@@ -3527,6 +3538,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   44:../../libDaisy/src/per/dac.h ****      ** callback to fill the buffer when it is ready for more samples.
   45:../../libDaisy/src/per/dac.h ****      ***/
   46:../../libDaisy/src/per/dac.h ****     enum class Mode
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 60
+
+
   47:../../libDaisy/src/per/dac.h ****     {
   48:../../libDaisy/src/per/dac.h ****         POLLING,
   49:../../libDaisy/src/per/dac.h ****         DMA,
@@ -3538,9 +3552,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   55:../../libDaisy/src/per/dac.h ****      ***/
   56:../../libDaisy/src/per/dac.h ****     enum class BitDepth
   57:../../libDaisy/src/per/dac.h ****     {
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 60
-
-
   58:../../libDaisy/src/per/dac.h ****         BITS_8,
   59:../../libDaisy/src/per/dac.h ****         BITS_12
   60:../../libDaisy/src/per/dac.h ****     };
@@ -3587,6 +3598,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1630              	.LBE305:
  1631              	.LBB306:
  1632              	.LBI306:
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 61
+
+
   96:../../libDaisy/src/sys/system.h ****     ~System() {}
  1633              		.loc 8 96 5 is_stmt 1 view .LVU435
   96:../../libDaisy/src/sys/system.h ****     ~System() {}
@@ -3598,9 +3612,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
    1:../../libDaisy/src/per/sai.h **** #pragma once
    2:../../libDaisy/src/per/sai.h **** #ifndef DSY_SAI_H
    3:../../libDaisy/src/per/sai.h **** #define DSY_SAI_H
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 61
-
-
    4:../../libDaisy/src/per/sai.h **** 
    5:../../libDaisy/src/per/sai.h **** #include "daisy_core.h"
    6:../../libDaisy/src/per/sai.h **** 
@@ -3647,6 +3658,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   47:../../libDaisy/src/per/sai.h ****     {
   48:../../libDaisy/src/per/sai.h ****         /** Specifies the internal peripheral to use (mapped to different hardware pins) */
   49:../../libDaisy/src/per/sai.h ****         enum class Peripheral
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 62
+
+
   50:../../libDaisy/src/per/sai.h ****         {
   51:../../libDaisy/src/per/sai.h ****             SAI_1,
   52:../../libDaisy/src/per/sai.h ****             SAI_2,
@@ -3658,9 +3672,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   58:../../libDaisy/src/per/sai.h ****             SAI_8KHZ,
   59:../../libDaisy/src/per/sai.h ****             SAI_16KHZ,
   60:../../libDaisy/src/per/sai.h ****             SAI_32KHZ,
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 62
-
-
   61:../../libDaisy/src/per/sai.h ****             SAI_48KHZ,
   62:../../libDaisy/src/per/sai.h ****             SAI_96KHZ,
   63:../../libDaisy/src/per/sai.h ****         };
@@ -3707,6 +3718,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  104:../../libDaisy/src/per/sai.h ****         OK,
  105:../../libDaisy/src/per/sai.h ****         ERR,
  106:../../libDaisy/src/per/sai.h ****     };
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 63
+
+
  107:../../libDaisy/src/per/sai.h **** 
  108:../../libDaisy/src/per/sai.h ****     SaiHandle() : pimpl_(nullptr) {}
  1639              		.loc 18 108 5 is_stmt 1 view .LVU437
@@ -3718,9 +3732,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1645              		.loc 18 108 33 view .LVU439
  1646              	.LBE309:
  1647              	.LBE308:
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 63
-
-
  1648              	.LBE307:
  1649              	.LBE294:
  1650              	.LBE293:
@@ -3767,6 +3778,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   66:../../libDaisy/src/daisy_petal.h ****     /** Destructor */
  1682              		.loc 2 66 18 view .LVU449
  1683 0028 0623     		movs	r3, #6
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 64
+
+
  1684 002a 00E0     		b	.L117
  1685              	.L126:
  1686              	.LBB315:
@@ -3778,9 +3792,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1690              		.loc 2 66 18 view .LVU451
  1691 002c 013B     		subs	r3, r3, #1
  1692              	.L117:
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 64
-
-
   66:../../libDaisy/src/daisy_petal.h ****     /** Destructor */
  1693              		.loc 2 66 18 view .LVU452
  1694 002e 002B     		cmp	r3, #0
@@ -3827,6 +3838,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1726              	.L118:
   66:../../libDaisy/src/daisy_petal.h ****     /** Destructor */
  1727              		.loc 2 66 18 view .LVU462
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 65
+
+
  1728 003e 002B     		cmp	r3, #0
  1729 0040 01DB     		blt	.L119
  1730              	.LBB320:
@@ -3838,9 +3852,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1734              		.loc 2 66 18 view .LVU464
  1735 0042 013B     		subs	r3, r3, #1
  1736 0044 FBE7     		b	.L118
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 65
-
-
  1737              	.L119:
  1738              	.LVL115:
  1739              	.LBB321:
@@ -3887,6 +3898,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
    2:../../libDaisy/src/per/i2c.h **** #include "daisy_core.h"
    3:../../libDaisy/src/per/i2c.h **** 
    4:../../libDaisy/src/per/i2c.h **** namespace daisy
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 66
+
+
    5:../../libDaisy/src/per/i2c.h **** {
    6:../../libDaisy/src/per/i2c.h **** /** A handle for interacting with an I2C peripheral. This is a dumb
    7:../../libDaisy/src/per/i2c.h ****  *  gateway that internally points to one of the four I2C peripherals
@@ -3898,9 +3912,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   13:../../libDaisy/src/per/i2c.h ****  *      i2c_conf.periph = I2CHandle::Config::Peripheral::I2C_1;
   14:../../libDaisy/src/per/i2c.h ****  *      i2c_conf.speed  = I2CHandle::Config::Speed::I2C_400KHZ;
   15:../../libDaisy/src/per/i2c.h ****  *      i2c_conf.mode   = I2CHandle::Config::Mode::Master;
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 66
-
-
   16:../../libDaisy/src/per/i2c.h ****  *      i2c_conf.pin_config.scl  = {DSY_GPIOB, 8};
   17:../../libDaisy/src/per/i2c.h ****  *      i2c_conf.pin_config.sda  = {DSY_GPIOB, 9};
   18:../../libDaisy/src/per/i2c.h ****  *      // initialise the peripheral
@@ -3947,6 +3958,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   59:../../libDaisy/src/per/i2c.h ****             dsy_gpio_pin scl; /**< & */
   60:../../libDaisy/src/per/i2c.h ****             dsy_gpio_pin sda; /**< & */
   61:../../libDaisy/src/per/i2c.h ****         } pin_config;         /**< & */
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 67
+
+
   62:../../libDaisy/src/per/i2c.h **** 
   63:../../libDaisy/src/per/i2c.h ****         Speed speed; /**< & */
   64:../../libDaisy/src/per/i2c.h ****         Mode  mode;  /**< & */
@@ -3958,9 +3972,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   70:../../libDaisy/src/per/i2c.h ****     enum class Result
   71:../../libDaisy/src/per/i2c.h ****     {
   72:../../libDaisy/src/per/i2c.h ****         OK, /**< & */
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 67
-
-
   73:../../libDaisy/src/per/i2c.h ****         ERR /**< & */
   74:../../libDaisy/src/per/i2c.h ****     };
   75:../../libDaisy/src/per/i2c.h **** 
@@ -3995,8 +4006,8 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1768              	.LBE292:
  1769              	.LBE291:
  1770              	.LBE290:
-  78:overdrive.cpp **** Chorus     ch;
- 1771              		.loc 14 78 12 view .LVU471
+  96:overdrive.cpp **** Chorus     ch;
+ 1771              		.loc 14 96 12 view .LVU471
  1772 005c 124A     		ldr	r2, .L128+12
  1773 005e 1349     		ldr	r1, .L128+16
  1774 0060 2046     		mov	r0, r4
@@ -4007,6 +4018,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   96:../../DaisySP/Source/Effects/chorus.h ****     ~Chorus() {}
  1779              		.loc 12 96 5 is_stmt 1 view .LVU472
  1780              	.LBB327:
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 68
+
+
  1781              	.LBB328:
   96:../../DaisySP/Source/Effects/chorus.h ****     ~Chorus() {}
  1782              		.loc 12 96 14 is_stmt 0 view .LVU473
@@ -4018,9 +4032,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1787 006a 01DB     		blt	.L120
  1788              	.LBB329:
  1789              	.LBI329:
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 68
-
-
   28:../../DaisySP/Source/Effects/chorus.h ****     ~ChorusEngine() {}
  1790              		.loc 12 28 5 view .LVU475
  1791              	.LVL119:
@@ -4043,8 +4054,8 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1804              	.LBE328:
  1805              	.LBE327:
  1806              	.LBE326:
-  79:overdrive.cpp **** Led led1, led2;
- 1807              		.loc 14 79 12 view .LVU480
+  97:overdrive.cpp **** Led led1, led2;
+ 1807              		.loc 14 97 12 view .LVU480
  1808 0070 0D4C     		ldr	r4, .L128+12
  1809 0072 2246     		mov	r2, r4
  1810 0074 0E49     		ldr	r1, .L128+20
@@ -4058,8 +4069,8 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
   24:../../libDaisy/src/hid/led.h ****     ~Led() {}
  1817              		.loc 1 24 5 is_stmt 0 view .LVU482
  1818              	.LBE331:
-  80:overdrive.cpp **** RCfilter filter;
- 1819              		.loc 14 80 5 view .LVU483
+  98:overdrive.cpp **** RCfilter filter;
+ 1819              		.loc 14 98 5 view .LVU483
  1820 007c 0E4D     		ldr	r5, .L128+28
  1821 007e 2246     		mov	r2, r4
  1822 0080 2946     		mov	r1, r5
@@ -4067,20 +4078,20 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1824 0084 FFF7FEFF 		bl	__aeabi_atexit
  1825              	.LVL122:
  1826              	.LBB332:
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 69
+
+
  1827              	.LBI332:
   24:../../libDaisy/src/hid/led.h ****     ~Led() {}
  1828              		.loc 1 24 5 is_stmt 1 view .LVU484
   24:../../libDaisy/src/hid/led.h ****     ~Led() {}
  1829              		.loc 1 24 5 is_stmt 0 view .LVU485
  1830              	.LBE332:
-  80:overdrive.cpp **** RCfilter filter;
- 1831              		.loc 14 80 11 view .LVU486
+  98:overdrive.cpp **** RCfilter filter;
+ 1831              		.loc 14 98 11 view .LVU486
  1832 0088 2246     		mov	r2, r4
  1833 008a 2946     		mov	r1, r5
  1834 008c 0C48     		ldr	r0, .L128+36
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 69
-
-
  1835 008e FFF7FEFF 		bl	__aeabi_atexit
  1836              	.LVL123:
  1837              	.LBB333:
@@ -4099,7 +4110,7 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1848              	.LBE333:
  1849              	.LBE287:
  1850              	.LBE286:
- 1851              		.loc 14 348 1 view .LVU489
+ 1851              		.loc 14 359 1 view .LVU489
  1852 009a 38BD     		pop	{r3, r4, r5, pc}
  1853              	.L129:
  1854              		.align	2
@@ -4127,6 +4138,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1877              		.global	led1
  1878              		.global	ch
  1879              		.global	hw
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 70
+
+
  1880              		.global	pedalAttribute
  1881              		.global	ANTI_ALIASING_LP_FILTER
  1882              		.section	.rodata
@@ -4138,9 +4152,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1888 0004 0100     		.short	1
  1889 0006 0100     		.short	1
  1890 0008 0100     		.short	1
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 70
-
-
  1891 000a 0100     		.short	1
  1892 000c 0100     		.short	1
  1893 000e 0100     		.short	1
@@ -4187,6 +4198,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1934 0060 2600     		.short	38
  1935 0062 2800     		.short	40
  1936 0064 2B00     		.short	43
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 71
+
+
  1937 0066 2D00     		.short	45
  1938 0068 3000     		.short	48
  1939 006a 3200     		.short	50
@@ -4198,9 +4212,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1945 0076 4400     		.short	68
  1946 0078 4700     		.short	71
  1947 007a 4B00     		.short	75
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 71
-
-
  1948 007c 4E00     		.short	78
  1949 007e 5200     		.short	82
  1950 0080 5500     		.short	85
@@ -4247,6 +4258,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  1991 00d2 5501     		.short	341
  1992 00d4 5F01     		.short	351
  1993 00d6 6801     		.short	360
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 72
+
+
  1994 00d8 7101     		.short	369
  1995 00da 7B01     		.short	379
  1996 00dc 8501     		.short	389
@@ -4258,9 +4272,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2002 00e8 C301     		.short	451
  2003 00ea CE01     		.short	462
  2004 00ec D901     		.short	473
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 72
-
-
  2005 00ee E501     		.short	485
  2006 00f0 F001     		.short	496
  2007 00f2 FC01     		.short	508
@@ -4307,6 +4318,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2048 0144 7E04     		.short	1150
  2049 0146 9204     		.short	1170
  2050 0148 A604     		.short	1190
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 73
+
+
  2051 014a BA04     		.short	1210
  2052 014c CF04     		.short	1231
  2053 014e E404     		.short	1252
@@ -4318,9 +4332,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2059 015a 6605     		.short	1382
  2060 015c 7C05     		.short	1404
  2061 015e 9305     		.short	1427
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 73
-
-
  2062 0160 AA05     		.short	1450
  2063 0162 C105     		.short	1473
  2064 0164 D905     		.short	1497
@@ -4367,6 +4378,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2105 01b6 720A     		.short	2674
  2106 01b8 940A     		.short	2708
  2107 01ba B70A     		.short	2743
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 74
+
+
  2108 01bc DA0A     		.short	2778
  2109 01be FD0A     		.short	2813
  2110 01c0 210B     		.short	2849
@@ -4378,9 +4392,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2116 01cc FB0B     		.short	3067
  2117 01ce 210C     		.short	3105
  2118 01d0 470C     		.short	3143
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 74
-
-
  2119 01d2 6D0C     		.short	3181
  2120 01d4 930C     		.short	3219
  2121 01d6 BA0C     		.short	3258
@@ -4427,6 +4438,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2160              	filter:
  2161 0000 00000000 		.space	52
  2161      00000000 
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 75
+
+
  2161      00000000 
  2161      00000000 
  2161      00000000 
@@ -4438,9 +4452,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2168      00000000 
  2168      00000000 
  2168      00000000 
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 75
-
-
  2168      00000000 
  2169              		.section	.bss.hw,"aw",%nobits
  2170              		.align	2
@@ -4487,6 +4498,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2205 0008 119C143C 		.word	1007983633
  2206 000c EE6AE73B 		.word	1005021934
  2207 0010 6B3AE6B9 		.word	-1176094101
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 76
+
+
  2208 0014 78B0E3BB 		.word	-1142706056
  2209 0018 9F93C0BB 		.word	-1145007201
  2210 001c DCA6443B 		.word	994354908
@@ -4498,9 +4512,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2216 0034 DFBA633C 		.word	1013168863
  2217 0038 616A983C 		.word	1016621665
  2218 003c C81F0EB9 		.word	-1190256696
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 76
-
-
  2219 0040 1340C7BC 		.word	-1127792621
  2220 0044 6DCFBDBC 		.word	-1128411283
  2221 0048 2578233C 		.word	1008957477
@@ -4547,6 +4558,9 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2262              		.file 25 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\bits\\std_abs.h"
  2263              		.file 26 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\cstdlib"
  2264              		.file 27 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\cstdint"
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 77
+
+
  2265              		.file 28 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\type_traits"
  2266              		.file 29 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\debug\\debug.h"
  2267              		.file 30 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\arm-none-eabi\\t
@@ -4558,9 +4572,6 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2273              		.file 36 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\cstring"
  2274              		.file 37 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\cwchar"
  2275              		.file 38 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\clocale"
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 77
-
-
  2276              		.file 39 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\bits\\basic_stri
  2277              		.file 40 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\bits\\stl_tempbu
  2278              		.file 41 "c:\\program files\\daisytoolchain\\arm-none-eabi\\include\\c++\\10.2.1\\bits\\predefined
@@ -4588,75 +4599,75 @@ ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 1
  2300              		.file 63 "../../libDaisy/src/terrarium.h"
  2301              		.file 64 "<built-in>"
  2302              		.file 65 "../../libDaisy/src/dev/sr_595.h"
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 78
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 78
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 overdrive.cpp
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:17     .text._ZN5daisy3LedD2Ev:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:25     .text._ZN5daisy3LedD2Ev:00000000 _ZN5daisy3LedD2Ev
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:25     .text._ZN5daisy3LedD2Ev:00000000 _ZN5daisy3LedD1Ev
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:42     .text._ZN5daisy10DaisyPetalD2Ev:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:49     .text._ZN5daisy10DaisyPetalD2Ev:00000000 _ZN5daisy10DaisyPetalD2Ev
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:49     .text._ZN5daisy10DaisyPetalD2Ev:00000000 _ZN5daisy10DaisyPetalD1Ev
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:217    .text._ZN7daisysp6ChorusD2Ev:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:224    .text._ZN7daisysp6ChorusD2Ev:00000000 _ZN7daisysp6ChorusD2Ev
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:224    .text._ZN7daisysp6ChorusD2Ev:00000000 _ZN7daisysp6ChorusD1Ev
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:276    .text._Z13pedalControlsv:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:283    .text._Z13pedalControlsv:00000000 _Z13pedalControlsv
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:446    .text._Z13pedalControlsv:000000b0 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:453    .text._Z10ProcessADCv:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:460    .text._Z10ProcessADCv:00000000 _Z10ProcessADCv
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:473    .text._Z11AA_FIR_initP9FIRfilter:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:480    .text._Z11AA_FIR_initP9FIRfilter:00000000 _Z11AA_FIR_initP9FIRfilter
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:527    .text._Z13AA_FIR_updateP9FIRfilterff:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:534    .text._Z13AA_FIR_updateP9FIRfilterff:00000000 _Z13AA_FIR_updateP9FIRfilterff
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:734    .text._Z13AA_FIR_updateP9FIRfilterff:00000100 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:741    .text._Z18RCfilter_setCutOffP8RCfilterff:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:748    .text._Z18RCfilter_setCutOffP8RCfilterff:00000000 _Z18RCfilter_setCutOffP8RCfilterff
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:833    .text._Z18RCfilter_setCutOffP8RCfilterff:00000088 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:844    .text._Z13RCfilter_initP8RCfilterff:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:851    .text._Z13RCfilter_initP8RCfilterff:00000000 _Z13RCfilter_initP8RCfilterff
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:882    .text._Z18LP_RCfilter_UpdateP8RCfilterf:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:889    .text._Z18LP_RCfilter_UpdateP8RCfilterf:00000000 _Z18LP_RCfilter_UpdateP8RCfilterf
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:923    .text._Z18HP_RCfilter_UpdateP8RCfilterf:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:930    .text._Z18HP_RCfilter_UpdateP8RCfilterf:00000000 _Z18HP_RCfilter_UpdateP8RCfilterf
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:969    .text._Z9softClip1f:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:976    .text._Z9softClip1f:00000000 _Z9softClip1f
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1019   .text._Z13AudioCallbackPKPKfPPfj:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1026   .text._Z13AudioCallbackPKPKfPPfj:00000000 _Z13AudioCallbackPKPKfPPfj
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1339   .text._Z13AudioCallbackPKPKfPPfj:0000019c $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1354   .text._Z8hardClipf:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1361   .text._Z8hardClipf:00000000 _Z8hardClipf
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1400   .text.main:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1407   .text.main:00000000 main
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1522   .text.main:00000098 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1533   .text._GLOBAL__sub_I_ANTI_ALIASING_LP_FILTER:00000000 $t
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1539   .text._GLOBAL__sub_I_ANTI_ALIASING_LP_FILTER:00000000 _GLOBAL__sub_I_ANTI_ALIASING_LP_FILTER
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1856   .text._GLOBAL__sub_I_ANTI_ALIASING_LP_FILTER:0000009c $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2153   .bss.ch:00000000 ch
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1871   .init_array:00000000 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2147   .bss.buffer:00000000 buffer
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2167   .bss.fir:00000000 fir
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2160   .bss.filter:00000000 filter
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2188   .bss.led2:00000000 led2
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2181   .bss.led1:00000000 led1
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2174   .bss.hw:00000000 hw
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2195   .bss.pedalAttribute:00000000 pedalAttribute
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2202   .data.ANTI_ALIASING_LP_FILTER:00000000 ANTI_ALIASING_LP_FILTER
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:1883   .rodata:00000000 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2143   .bss.buffer:00000000 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2150   .bss.ch:00000000 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2156   .bss.filter:00000000 $d
-ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s 			page 79
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:17     .text._ZN5daisy3LedD2Ev:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:25     .text._ZN5daisy3LedD2Ev:00000000 _ZN5daisy3LedD2Ev
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:25     .text._ZN5daisy3LedD2Ev:00000000 _ZN5daisy3LedD1Ev
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:42     .text._ZN5daisy10DaisyPetalD2Ev:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:49     .text._ZN5daisy10DaisyPetalD2Ev:00000000 _ZN5daisy10DaisyPetalD2Ev
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:49     .text._ZN5daisy10DaisyPetalD2Ev:00000000 _ZN5daisy10DaisyPetalD1Ev
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:217    .text._ZN7daisysp6ChorusD2Ev:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:224    .text._ZN7daisysp6ChorusD2Ev:00000000 _ZN7daisysp6ChorusD2Ev
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:224    .text._ZN7daisysp6ChorusD2Ev:00000000 _ZN7daisysp6ChorusD1Ev
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:276    .text._Z13pedalControlsv:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:283    .text._Z13pedalControlsv:00000000 _Z13pedalControlsv
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:446    .text._Z13pedalControlsv:000000b0 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:453    .text._Z10ProcessADCv:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:460    .text._Z10ProcessADCv:00000000 _Z10ProcessADCv
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:473    .text._Z11AA_FIR_initP9FIRfilter:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:480    .text._Z11AA_FIR_initP9FIRfilter:00000000 _Z11AA_FIR_initP9FIRfilter
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:527    .text._Z16overdrive_updateP9FIRfilterff:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:534    .text._Z16overdrive_updateP9FIRfilterff:00000000 _Z16overdrive_updateP9FIRfilterff
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:734    .text._Z16overdrive_updateP9FIRfilterff:00000100 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:741    .text._Z18RCfilter_setCutOffP8RCfilterff:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:748    .text._Z18RCfilter_setCutOffP8RCfilterff:00000000 _Z18RCfilter_setCutOffP8RCfilterff
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:833    .text._Z18RCfilter_setCutOffP8RCfilterff:00000088 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:844    .text._Z13RCfilter_initP8RCfilterff:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:851    .text._Z13RCfilter_initP8RCfilterff:00000000 _Z13RCfilter_initP8RCfilterff
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:882    .text._Z18LP_RCfilter_UpdateP8RCfilterf:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:889    .text._Z18LP_RCfilter_UpdateP8RCfilterf:00000000 _Z18LP_RCfilter_UpdateP8RCfilterf
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:923    .text._Z18HP_RCfilter_UpdateP8RCfilterf:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:930    .text._Z18HP_RCfilter_UpdateP8RCfilterf:00000000 _Z18HP_RCfilter_UpdateP8RCfilterf
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:969    .text._Z9softClip1f:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:976    .text._Z9softClip1f:00000000 _Z9softClip1f
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1019   .text._Z13AudioCallbackPKPKfPPfj:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1026   .text._Z13AudioCallbackPKPKfPPfj:00000000 _Z13AudioCallbackPKPKfPPfj
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1339   .text._Z13AudioCallbackPKPKfPPfj:0000019c $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1354   .text._Z8hardClipf:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1361   .text._Z8hardClipf:00000000 _Z8hardClipf
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1400   .text.main:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1407   .text.main:00000000 main
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1522   .text.main:00000098 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1533   .text._GLOBAL__sub_I_ANTI_ALIASING_LP_FILTER:00000000 $t
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1539   .text._GLOBAL__sub_I_ANTI_ALIASING_LP_FILTER:00000000 _GLOBAL__sub_I_ANTI_ALIASING_LP_FILTER
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1856   .text._GLOBAL__sub_I_ANTI_ALIASING_LP_FILTER:0000009c $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2153   .bss.ch:00000000 ch
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1871   .init_array:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2147   .bss.buffer:00000000 buffer
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2167   .bss.fir:00000000 fir
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2160   .bss.filter:00000000 filter
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2188   .bss.led2:00000000 led2
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2181   .bss.led1:00000000 led1
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2174   .bss.hw:00000000 hw
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2195   .bss.pedalAttribute:00000000 pedalAttribute
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2202   .data.ANTI_ALIASING_LP_FILTER:00000000 ANTI_ALIASING_LP_FILTER
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:1883   .rodata:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2143   .bss.buffer:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2150   .bss.ch:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2156   .bss.filter:00000000 $d
+ARM GAS  C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s 			page 79
 
 
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2163   .bss.fir:00000000 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2170   .bss.hw:00000000 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2177   .bss.led1:00000000 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2184   .bss.led2:00000000 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2191   .bss.pedalAttribute:00000000 $d
-C:\Users\jonas\AppData\Local\Temp\ccvWD9bj.s:2198   .data.ANTI_ALIASING_LP_FILTER:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2163   .bss.fir:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2170   .bss.hw:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2177   .bss.led1:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2184   .bss.led2:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2191   .bss.pedalAttribute:00000000 $d
+C:\Users\jonas\AppData\Local\Temp\ccpfU1Vn.s:2198   .data.ANTI_ALIASING_LP_FILTER:00000000 $d
                            .group:00000000 _ZN5daisy3LedD5Ev
                            .group:00000000 _ZN5daisy10DaisyPetalD5Ev
                            .group:00000000 _ZN7daisysp6ChorusD5Ev
@@ -4668,6 +4679,7 @@ _ZN5daisy13AnalogControl7ProcessEv
 expf
 _ZN5daisy3Led3SetEf
 _ZN5daisy3Led6UpdateEv
+_Z13AA_FIR_updateP9FIRfilterff
 _ZN5daisy10DaisyPetal4InitEb
 _ZN5daisy10DaisyPetal17SetAudioBlockSizeEj
 _ZN5daisy10DaisyPetal15AudioSampleRateEv
