@@ -1,17 +1,20 @@
 #include "daisy_petal.h"
 #include "daisysp.h"
 #include "terrarium.h"
+#include <cmath>
 
 using namespace terrarium;
 using namespace daisy;
 using namespace daisysp;
 
+#define SAMPLE_FREQ 48000.0f
 #define SAMPLE_TIME 0.00002083333 // 1/fs, fs = 48kHz
 #define PI 3.14159265359
 #define PI_2 6.28318530718
 #define LOWPASS 1
 #define HIGHPASS 2
 #define FILTER_TAP_NUM 53
+#define Q 0.707 // biquad Q factor 
 
 typedef struct signal_buffer {
     float in;
@@ -19,6 +22,11 @@ typedef struct signal_buffer {
     float clipped;
     float lowpass_filtered;
     float highpass_filtered;
+    float biquad_filtered;
+    /* LFOs */
+    float lfo;
+    float lfo2;
+    float lfo3;
 } signal_buffer;
 
 typedef struct pedal_attributes {
@@ -56,6 +64,14 @@ typedef struct RCfilter {
     float RC;
     uint8_t filterType;
 } RCfilter;
+
+typedef struct biQuadFilter {
+    float b0, b1, b2; // feedforward (zeros) coefficients
+    float a0, a1, a2;     // feedback (poles) coefficients
+    float x1, x2;     // input delay line
+    float y1, y2;     // output delay line
+    float out;
+} biQuadFilter;
 
 /* 
  ---- FILTER SPECS ---- 
@@ -98,7 +114,13 @@ Chorus     ch;
 Led led1, led2;
 RCfilter filter;
 FIRfilter fir;
+biQuadFilter biquad;
 signal_buffer buffer;
+
+/* LFO */
+static Oscillator osc, lfo, lfo2, lfo3;
+float saw, freq;
+Phaser phaser;
 
 void ProcessADC();
 
@@ -112,8 +134,11 @@ void RCfilter_setCutOff(RCfilter *filt, float fc_LP, float fc_HP);
 float LP_RCfilter_Update(RCfilter *filt, float input);
 float HP_RCfilter_Update(RCfilter *filt, float input); 
 void AA_FIR_init(FIRfilter *fir);
-float AA_FIR_update(FIRfilter *fir, float in, float preGain);
+float overdrive_update(FIRfilter *fir, float in, float preGain);
+void updateBiquadCoefficients(biQuadFilter *biquad, float fc_biquad);
+float biQuadUpdate(biQuadFilter *biquad, float in);
 
+float generate_piano_sound(float in);
 
 void pedalControls()
 {
@@ -125,12 +150,17 @@ void pedalControls()
 
     /* Switches */
     pedalAttribute.switch_1 ^= hw.switches[Terrarium::SWITCH_1].RisingEdge();
+    pedalAttribute.switch_2 ^= hw.switches[Terrarium::SWITCH_2].RisingEdge();
+    pedalAttribute.switch_3 ^= hw.switches[Terrarium::SWITCH_3].RisingEdge();
+    pedalAttribute.switch_4 ^= hw.switches[Terrarium::SWITCH_4].RisingEdge();
 
     /* Pots */
     pedalAttribute.POT1 = hw.knob[Terrarium::KNOB_1].Process(); // Volume control
     pedalAttribute.POT2 = hw.knob[Terrarium::KNOB_2].Process(); // LP filter cut off frequency
     pedalAttribute.POT3 = hw.knob[Terrarium::KNOB_3].Process(); // HP filter cut off frequency
-    pedalAttribute.POT4 = hw.knob[Terrarium::KNOB_4].Process() * 35; // Overdrive pregain
+    pedalAttribute.POT4 = hw.knob[Terrarium::KNOB_4].Process(); // Overdrive pregain
+    pedalAttribute.POT5 = hw.knob[Terrarium::KNOB_5].Process();
+    pedalAttribute.POT6 = hw.knob[Terrarium::KNOB_6].Process();
 }
 
 void AudioCallback(AudioHandle::InputBuffer  in,
@@ -140,25 +170,9 @@ void AudioCallback(AudioHandle::InputBuffer  in,
     pedalControls();
     ProcessADC();
 
-    /* LOWPASS FILTER CUTOFF */
-    if (pedalAttribute.POT2 != pedalAttribute.previous_POT2)
-    {
-        filter.filterType = LOWPASS;
-        RCfilter_setCutOff(&filter, 5000.0f * pedalAttribute.POT2, 0.0f);
-        pedalAttribute.previous_POT2 = pedalAttribute.POT2;
-    }
-    // TODO: MOVE TO ProcessADC() function
-    /* HIGHPASS FILTER CUTOFF */
-    if (pedalAttribute.POT3 != pedalAttribute.previous_POT3)
-    {
-        filter.filterType = HIGHPASS;
-        RCfilter_setCutOff(&filter, 0.0f, 2000.0f * pedalAttribute.POT3);
-        pedalAttribute.previous_POT3 = pedalAttribute.POT3;
-    }
-
     for(size_t i = 0; i < size; i++)
     {   
-        buffer.in = in[0][i] * (pedalAttribute.POT1*2);
+        buffer.in = in[0][i] * (pedalAttribute.POT1*2); // input gain control
 
         if (hw.switches[Terrarium::FOOTSWITCH_1].RisingEdge() || hw.switches[Terrarium::FOOTSWITCH_2].RisingEdge()) // Set LEDs
         {    
@@ -168,23 +182,31 @@ void AudioCallback(AudioHandle::InputBuffer  in,
             led2.Update();
         }
 
-         if (!pedalAttribute.FS1_bypass) // filtered distortion
+         if (!pedalAttribute.FS1_bypass)
         {
-            buffer.lowpass_filtered = LP_RCfilter_Update(&filter, buffer.in);
-            buffer.clipped = softClip1(buffer.lowpass_filtered * pedalAttribute.POT1 * 100);
-            buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.clipped);
+            //freq = lfo.Process();
+            //saw = osc.Process();
+            lfo.SetWaveform(lfo.WAVE_SIN);
+            lfo.SetFreq(pedalAttribute.POT5*2000);
+            buffer.lfo = lfo.Process();            
 
-            out[0][i] = buffer.highpass_filtered;
+            if(pedalAttribute.switch_1)
+            {
+            lfo2.SetWaveform(lfo.WAVE_SIN);
+            lfo2.SetFreq(pedalAttribute.POT6*2000);
+            buffer.lfo2 = lfo2.Process();
+            }
+            
+            out[0][i] = LP_RCfilter_Update(&filter, buffer.lfo + buffer.lfo2);
+            //out[0][i] = phaser.Process(buffer.lfo+buffer.lfo2);
         }
         else if (!pedalAttribute.FS2_bypass)
         {
-            buffer.highpass_filtered = HP_RCfilter_Update(&filter, buffer.in);
+            buffer.biquad_filtered = biQuadUpdate(&biquad, buffer.in);
+            buffer.clipped = overdrive_update(&fir, buffer.biquad_filtered, pedalAttribute.POT4  * 45);
+            buffer.lowpass_filtered = LP_RCfilter_Update(&filter,  buffer.clipped);
 
-            buffer.clipped = AA_FIR_update(&fir, buffer.highpass_filtered, pedalAttribute.POT4);
-
-            //buffer.lowpass_filtered = LP_RCfilter_Update(&filter, buffer.clipped);
-
-            out[0][i] = buffer.clipped;
+            out[0][i] = buffer.lowpass_filtered; 
         }
         else // Bypass
         {
@@ -195,6 +217,20 @@ void AudioCallback(AudioHandle::InputBuffer  in,
 
 void ProcessADC() 
 {
+    /* RC LOWPASS FILTER CUTOFF */
+    if (pedalAttribute.POT2 != pedalAttribute.previous_POT2)
+    {
+        filter.filterType = LOWPASS;
+        RCfilter_setCutOff(&filter, 5000.0f * pedalAttribute.POT2, 0.0f);
+        pedalAttribute.previous_POT2 = pedalAttribute.POT2;
+    }
+
+    /* BIQUAD HP FILTER CUTOFF */
+    if (pedalAttribute.POT3 != pedalAttribute.previous_POT3)
+    {
+        updateBiquadCoefficients(&biquad, 400.0f * pedalAttribute.POT3);
+        pedalAttribute.previous_POT3 = pedalAttribute.POT3;
+    }
 }
 
 /* ----- FIR ANTI-ALIAS FILTER ----- */
@@ -271,6 +307,48 @@ float overdrive_update(FIRfilter *fir, float in, float preGain)
     return clipOut;
 }
 
+/* ----- BIQUAD HIGHPASS FILTER ----- */
+
+void setBiquadCoefficients(biQuadFilter *biquad) // cutoff frequency: 100 Hz  -- https://arachnoid.com/BiQuadDesigner/index.html
+{
+    /* poles */
+    biquad->b0 = 0.99078533f;
+    biquad->b1 = -1.98157065f;
+    biquad->b2 = 0.99078533f;
+    /* zeroes */
+    biquad->a1 = -1.98148576f;
+    biquad->a2 = 0.98165554f;
+}
+
+void updateBiquadCoefficients(biQuadFilter *biquad, float fc_biquad)
+{
+    if (fc_biquad < 30) fc_biquad = 30;
+    float w0 = PI_2 * fc_biquad / SAMPLE_FREQ;
+    float alpha = sin(w0) / (2.0 * Q);
+
+    biquad->a0 = 1.0f + alpha;
+    biquad->b0 = ((1.0f + cos(w0)) / 2.0f) / biquad->a0;
+    biquad->b1 = -((1.0f + cos(w0))) / biquad->a0;
+    biquad->b2 = ((1.0f + cos(w0)) / 2.0f) / biquad->a0;
+    biquad->a1 = -(2.0f * cos(w0)) / biquad->a0;
+    biquad->a2 = (1.0f - alpha) / biquad->a0;
+}
+
+float biQuadUpdate(biQuadFilter *biquad, float in) 
+{
+    /* calculate filtered output sampled */
+    biquad->out = (biquad->b0 * in) + (biquad->b1 * biquad->x1) + (biquad->b2 * biquad->x2)
+                - (biquad->a1 * biquad->y1) - (biquad->a2 * biquad->y2);
+
+    /* set previous samples */
+    biquad->x2 = biquad->x1;
+    biquad->x1 = in;
+    biquad->y2 = biquad->y1;
+    biquad->y1 = biquad->out;
+
+    return biquad->out;
+}
+
 /* ----- RC LP/HP FILTER ----- */
 
 void RCfilter_init(RCfilter *filt, float fc_LP, float fc_HP)
@@ -344,7 +422,17 @@ int main(void)
     led1.Update();
     led2.Update();
     
+    /* LFO w/effects */
+    lfo.Init(sample_rate);
+    lfo2.Init(sample_rate);
+    lfo3.Init(sample_rate);
+    phaser.Init(sample_rate);
+    phaser.SetLfoDepth(0.8);
+    phaser.SetLfoFreq(0.4); // 0.4 Hz
+    phaser.SetFeedback(0.5);
+
     AA_FIR_init(&fir);
+    setBiquadCoefficients(&biquad);
     RCfilter_init(&filter, 1000.0f, 1000.0f);
 
     hw.StartAdc();
